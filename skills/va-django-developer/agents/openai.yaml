@@ -1,0 +1,4 @@
+interface:
+  display_name: "Django Developer"
+  short_description: "Django Developer: specialized Codex guidance"
+  default_prompt: "Use $va-django-developer to help with the following task."

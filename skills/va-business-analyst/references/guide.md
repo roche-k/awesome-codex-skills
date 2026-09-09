@@ -1,0 +1,234 @@
+# Domain guide
+
+Apply the relevant sections to the actual request. This adapted source is
+a menu of domain considerations, not a requirement to perform every item.
+Source version numbers and numeric targets are historical examples; use the
+project's real versions and agreed acceptance criteria. Check current primary
+documentation before relying on external APIs, standards, or provider behavior.
+Tool labels describe operations and do not grant unavailable tools or services.
+
+Business analysis checklist:
+- Requirements traceability 100% maintained
+- Documentation complete thoroughly
+- Data accuracy verified properly
+- Stakeholder approval obtained consistently
+- ROI calculated accurately
+- Risks identified comprehensively
+- Success metrics defined clearly
+- Change impact assessed properly
+
+Requirements elicitation:
+- Stakeholder interviews
+- Workshop facilitation
+- Document analysis
+- Observation techniques
+- Survey design
+- Use case development
+- User story creation
+- Acceptance criteria
+
+Business process modeling:
+- Process mapping
+- BPMN notation
+- Value stream mapping
+- Swimlane diagrams
+- Gap analysis
+- To-be design
+- Process optimization
+- Automation opportunities
+
+Data analysis:
+- SQL queries
+- Statistical analysis
+- Trend identification
+- KPI development
+- Dashboard creation
+- Report automation
+- Predictive modeling
+- Data visualization
+
+Analysis techniques:
+- SWOT analysis
+- Root cause analysis
+- Cost-benefit analysis
+- Risk assessment
+- Process mapping
+- Data modeling
+- Statistical analysis
+- Predictive modeling
+
+Solution design:
+- Requirements documentation
+- Functional specifications
+- System architecture
+- Integration mapping
+- Data flow diagrams
+- Interface design
+- Testing strategies
+- Implementation planning
+
+Stakeholder management:
+- Requirement workshops
+- Interview techniques
+- Presentation skills
+- Conflict resolution
+- Expectation management
+- Communication plans
+- Change management
+- Training delivery
+
+Documentation skills:
+- Business requirements documents
+- Functional specifications
+- Process flow diagrams
+- Use case diagrams
+- Data flow diagrams
+- Wireframes and mockups
+- Test plans
+- Training materials
+
+Project support:
+- Scope definition
+- Timeline estimation
+- Resource planning
+- Risk identification
+- Quality assurance
+- UAT coordination
+- Go-live support
+- Post-implementation review
+
+Business intelligence:
+- KPI definition
+- Metric frameworks
+- Dashboard design
+- Report development
+- Data storytelling
+- Insight generation
+- Decision support
+- Performance tracking
+
+Change management:
+- Impact analysis
+- Stakeholder mapping
+- Communication planning
+- Training development
+- Resistance management
+- Adoption strategies
+- Success measurement
+- Continuous improvement
+
+## Development Workflow
+
+Execute business analysis through systematic phases:
+
+### 1. Discovery Phase
+
+Understand business landscape and objectives.
+
+Discovery priorities:
+- Stakeholder identification
+- Process mapping
+- Data inventory
+- Pain point analysis
+- Opportunity assessment
+- Goal alignment
+- Success definition
+- Scope determination
+
+Requirements gathering:
+- Interview stakeholders
+- Document processes
+- Analyze data
+- Identify gaps
+- Define requirements
+- Prioritize needs
+- Validate findings
+- Plan solutions
+
+### 2. Implementation Phase
+
+Develop solutions and drive implementation.
+
+Implementation approach:
+- Design solutions
+- Document requirements
+- Create specifications
+- Support development
+- Facilitate testing
+- Manage changes
+- Train users
+- Monitor adoption
+
+Analysis patterns:
+- Data-driven insights
+- Process optimization
+- Stakeholder alignment
+- Iterative refinement
+- Risk mitigation
+- Value focus
+- Clear documentation
+- Measurable outcomes
+
+### 3. Business Excellence
+
+Deliver measurable business value.
+
+Excellence checklist:
+- Requirements met
+- Processes optimized
+- Stakeholders satisfied
+- ROI achieved
+- Risks mitigated
+- Documentation complete
+- Adoption successful
+- Value delivered
+
+Requirements best practices:
+- Clear and concise
+- Measurable criteria
+- Traceable links
+- Stakeholder approved
+- Testable conditions
+- Prioritized order
+- Version controlled
+- Change managed
+
+Process improvement:
+- Current state analysis
+- Bottleneck identification
+- Automation opportunities
+- Efficiency gains
+- Cost reduction
+- Quality improvement
+- Time savings
+- Risk reduction
+
+Data-driven decisions:
+- Metric definition
+- Data collection
+- Analysis methods
+- Insight generation
+- Visualization design
+- Report automation
+- Decision support
+- Impact measurement
+
+Stakeholder engagement:
+- Communication plans
+- Regular updates
+- Feedback loops
+- Expectation setting
+- Conflict resolution
+- Buy-in strategies
+- Training programs
+- Success celebration
+
+Solution validation:
+- Requirement verification
+- Process testing
+- Data accuracy
+- User acceptance
+- Performance metrics
+- Business impact
+- Continuous improvement
+- Lessons learned

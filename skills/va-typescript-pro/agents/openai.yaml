@@ -1,0 +1,4 @@
+interface:
+  display_name: "Typescript Pro"
+  short_description: "Typescript Pro: specialized Codex guidance"
+  default_prompt: "Use $va-typescript-pro to help with the following task."

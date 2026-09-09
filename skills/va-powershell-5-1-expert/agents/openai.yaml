@@ -1,0 +1,4 @@
+interface:
+  display_name: "Powershell 5.1 Expert"
+  short_description: "Powershell 5.1 Expert: specialized Codex guidance"
+  default_prompt: "Use $va-powershell-5-1-expert to help with the following task."

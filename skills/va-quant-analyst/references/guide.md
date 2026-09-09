@@ -1,0 +1,234 @@
+# Domain guide
+
+Apply the relevant sections to the actual request. This adapted source is
+a menu of domain considerations, not a requirement to perform every item.
+Source version numbers and numeric targets are historical examples; use the
+project's real versions and agreed acceptance criteria. Check current primary
+documentation before relying on external APIs, standards, or provider behavior.
+Tool labels describe operations and do not grant unavailable tools or services.
+
+Quantitative analysis checklist:
+- Model accuracy validated thoroughly
+- Backtesting comprehensive completely
+- Risk metrics calculated properly
+- Latency < 1ms for HFT achieved
+- Data quality verified consistently
+- Compliance checked rigorously
+- Performance optimized effectively
+- Documentation complete accurately
+
+Financial modeling:
+- Pricing models
+- Risk models
+- Portfolio optimization
+- Factor models
+- Volatility modeling
+- Correlation analysis
+- Scenario analysis
+- Stress testing
+
+Trading strategies:
+- Market making
+- Statistical arbitrage
+- Pairs trading
+- Momentum strategies
+- Mean reversion
+- Options strategies
+- Event-driven trading
+- Crypto algorithms
+
+Statistical methods:
+- Time series analysis
+- Regression models
+- Machine learning
+- Bayesian inference
+- Monte Carlo methods
+- Stochastic processes
+- Cointegration tests
+- GARCH models
+
+Derivatives pricing:
+- Black-Scholes models
+- Binomial trees
+- Monte Carlo pricing
+- American options
+- Exotic derivatives
+- Greeks calculation
+- Volatility surfaces
+- Credit derivatives
+
+Risk management:
+- VaR calculation
+- Stress testing
+- Scenario analysis
+- Position sizing
+- Stop-loss strategies
+- Portfolio hedging
+- Correlation analysis
+- Drawdown control
+
+High-frequency trading:
+- Microstructure analysis
+- Order book dynamics
+- Latency optimization
+- Co-location strategies
+- Market impact models
+- Execution algorithms
+- Tick data analysis
+- Hardware optimization
+
+Backtesting framework:
+- Historical simulation
+- Walk-forward analysis
+- Out-of-sample testing
+- Transaction costs
+- Slippage modeling
+- Performance metrics
+- Overfitting detection
+- Robustness testing
+
+Portfolio optimization:
+- Markowitz optimization
+- Black-Litterman
+- Risk parity
+- Factor investing
+- Dynamic allocation
+- Constraint handling
+- Multi-objective optimization
+- Rebalancing strategies
+
+Machine learning applications:
+- Price prediction
+- Pattern recognition
+- Feature engineering
+- Ensemble methods
+- Deep learning
+- Reinforcement learning
+- Natural language processing
+- Alternative data
+
+Market data handling:
+- Data cleaning
+- Normalization
+- Feature extraction
+- Missing data
+- Survivorship bias
+- Corporate actions
+- Real-time processing
+- Data storage
+
+## Development Workflow
+
+Execute quantitative analysis through systematic phases:
+
+### 1. Strategy Analysis
+
+Research and design trading strategies.
+
+Analysis priorities:
+- Market research
+- Data analysis
+- Pattern identification
+- Model selection
+- Risk assessment
+- Backtest design
+- Performance targets
+- Implementation planning
+
+Research evaluation:
+- Analyze markets
+- Study inefficiencies
+- Test hypotheses
+- Validate patterns
+- Assess risks
+- Estimate returns
+- Plan execution
+- Document findings
+
+### 2. Implementation Phase
+
+Build and test quantitative models.
+
+Implementation approach:
+- Model development
+- Strategy coding
+- Backtest execution
+- Parameter optimization
+- Risk controls
+- Live testing
+- Performance monitoring
+- Continuous improvement
+
+Development patterns:
+- Rigorous testing
+- Conservative assumptions
+- Robust validation
+- Risk awareness
+- Performance tracking
+- Code optimization
+- Documentation
+- Version control
+
+### 3. Quant Excellence
+
+Deploy profitable trading systems.
+
+Excellence checklist:
+- Models validated
+- Performance verified
+- Risks controlled
+- Systems robust
+- Compliance met
+- Documentation complete
+- Monitoring active
+- Profitability achieved
+
+Model validation:
+- Cross-validation
+- Out-of-sample testing
+- Parameter stability
+- Regime analysis
+- Sensitivity testing
+- Monte Carlo validation
+- Walk-forward optimization
+- Live performance tracking
+
+Risk analytics:
+- Value at Risk
+- Conditional VaR
+- Stress scenarios
+- Correlation breaks
+- Tail risk analysis
+- Liquidity risk
+- Concentration risk
+- Counterparty risk
+
+Execution optimization:
+- Order routing
+- Smart execution
+- Impact minimization
+- Timing optimization
+- Venue selection
+- Cost analysis
+- Slippage reduction
+- Fill improvement
+
+Performance attribution:
+- Return decomposition
+- Factor analysis
+- Risk contribution
+- Alpha generation
+- Cost analysis
+- Benchmark comparison
+- Period analysis
+- Strategy attribution
+
+Research process:
+- Literature review
+- Data exploration
+- Hypothesis testing
+- Model development
+- Validation process
+- Documentation
+- Peer review
+- Continuous monitoring

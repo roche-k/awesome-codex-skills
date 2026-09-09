@@ -1,0 +1,4 @@
+interface:
+  display_name: "Context Manager"
+  short_description: "Context Manager: specialized Codex guidance"
+  default_prompt: "Use $va-context-manager to help with the following task."

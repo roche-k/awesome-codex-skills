@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hipaa Compliance"
+  short_description: "Hipaa Compliance: specialized Codex guidance"
+  default_prompt: "Use $va-hipaa-compliance to help with the following task."

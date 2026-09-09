@@ -1,0 +1,4 @@
+interface:
+  display_name: "Knowledge Synthesizer"
+  short_description: "Knowledge Synthesizer: specialized Codex guidance"
+  default_prompt: "Use $va-knowledge-synthesizer to help with the following task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Refactoring Specialist"
+  short_description: "Refactoring Specialist: specialized Codex guidance"
+  default_prompt: "Use $va-refactoring-specialist to help with the following task."

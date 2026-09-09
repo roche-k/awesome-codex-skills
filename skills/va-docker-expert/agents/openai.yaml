@@ -1,0 +1,4 @@
+interface:
+  display_name: "Docker Expert"
+  short_description: "Docker Expert: specialized Codex guidance"
+  default_prompt: "Use $va-docker-expert to help with the following task."

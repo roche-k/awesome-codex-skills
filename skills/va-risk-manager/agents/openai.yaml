@@ -1,0 +1,4 @@
+interface:
+  display_name: "Risk Manager"
+  short_description: "Risk Manager: specialized Codex guidance"
+  default_prompt: "Use $va-risk-manager to help with the following task."

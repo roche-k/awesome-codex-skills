@@ -1,0 +1,4 @@
+interface:
+  display_name: "Landing Page Copywriter"
+  short_description: "Landing Page Copywriter: specialized Codex guidance"
+  default_prompt: "Use $va-landing-page-copywriter to help with the following task."

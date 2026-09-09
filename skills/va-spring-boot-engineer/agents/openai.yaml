@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spring Boot Engineer"
+  short_description: "Spring Boot Engineer: specialized Codex guidance"
+  default_prompt: "Use $va-spring-boot-engineer to help with the following task."

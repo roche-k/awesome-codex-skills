@@ -1,0 +1,4 @@
+interface:
+  display_name: "Powershell 7 Expert"
+  short_description: "Powershell 7 Expert: specialized Codex guidance"
+  default_prompt: "Use $va-powershell-7-expert to help with the following task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Electron Pro"
+  short_description: "Electron Pro: specialized Codex guidance"
+  default_prompt: "Use $va-electron-pro to help with the following task."

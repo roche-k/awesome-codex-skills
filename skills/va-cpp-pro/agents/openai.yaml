@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cpp Pro"
+  short_description: "Cpp Pro: specialized Codex guidance"
+  default_prompt: "Use $va-cpp-pro to help with the following task."

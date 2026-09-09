@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt Engineer"
+  short_description: "Prompt Engineer: specialized Codex guidance"
+  default_prompt: "Use $va-prompt-engineer to help with the following task."

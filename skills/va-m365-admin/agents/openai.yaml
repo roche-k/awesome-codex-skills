@@ -1,0 +1,4 @@
+interface:
+  display_name: "M365 Admin"
+  short_description: "M365 Admin: specialized Codex guidance"
+  default_prompt: "Use $va-m365-admin to help with the following task."

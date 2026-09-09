@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ad Security Reviewer"
+  short_description: "Ad Security Reviewer: specialized Codex guidance"
+  default_prompt: "Use $va-ad-security-reviewer to help with the following task."

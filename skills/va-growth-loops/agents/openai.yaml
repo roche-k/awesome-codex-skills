@@ -1,0 +1,4 @@
+interface:
+  display_name: "Growth Loops"
+  short_description: "Growth Loops: specialized Codex guidance"
+  default_prompt: "Use $va-growth-loops to help with the following task."

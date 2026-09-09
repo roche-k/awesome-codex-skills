@@ -1,0 +1,4 @@
+interface:
+  display_name: "Workflow Orchestrator"
+  short_description: "Workflow Orchestrator: specialized Codex guidance"
+  default_prompt: "Use $va-workflow-orchestrator to help with the following task."

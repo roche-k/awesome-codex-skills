@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sales Engineer"
+  short_description: "Sales Engineer: specialized Codex guidance"
+  default_prompt: "Use $va-sales-engineer to help with the following task."

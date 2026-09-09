@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nextjs Developer"
+  short_description: "Nextjs Developer: specialized Codex guidance"
+  default_prompt: "Use $va-nextjs-developer to help with the following task."

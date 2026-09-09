@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python Pro"
+  short_description: "Python Pro: specialized Codex guidance"
+  default_prompt: "Use $va-python-pro to help with the following task."

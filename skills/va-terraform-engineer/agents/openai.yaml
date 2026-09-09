@@ -1,0 +1,4 @@
+interface:
+  display_name: "Terraform Engineer"
+  short_description: "Terraform Engineer: specialized Codex guidance"
+  default_prompt: "Use $va-terraform-engineer to help with the following task."

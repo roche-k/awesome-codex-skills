@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Idea Validator"
+  short_description: "Project Idea Validator: specialized Codex guidance"
+  default_prompt: "Use $va-project-idea-validator to help with the following task."

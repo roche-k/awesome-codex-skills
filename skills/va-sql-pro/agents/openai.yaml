@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sql Pro"
+  short_description: "Sql Pro: specialized Codex guidance"
+  default_prompt: "Use $va-sql-pro to help with the following task."

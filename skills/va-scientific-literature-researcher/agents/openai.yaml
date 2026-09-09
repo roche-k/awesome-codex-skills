@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scientific Literature Researcher"
+  short_description: "Scientific Literature Researcher: specialized Codex guidance"
+  default_prompt: "Use $va-scientific-literature-researcher to help with the following task."

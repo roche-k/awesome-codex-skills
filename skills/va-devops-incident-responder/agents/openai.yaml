@@ -1,0 +1,4 @@
+interface:
+  display_name: "Devops Incident Responder"
+  short_description: "Devops Incident Responder: specialized Codex guidance"
+  default_prompt: "Use $va-devops-incident-responder to help with the following task."

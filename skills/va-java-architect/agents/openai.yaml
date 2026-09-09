@@ -1,0 +1,4 @@
+interface:
+  display_name: "Java Architect"
+  short_description: "Java Architect: specialized Codex guidance"
+  default_prompt: "Use $va-java-architect to help with the following task."

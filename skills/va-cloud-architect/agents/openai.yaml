@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cloud Architect"
+  short_description: "Cloud Architect: specialized Codex guidance"
+  default_prompt: "Use $va-cloud-architect to help with the following task."

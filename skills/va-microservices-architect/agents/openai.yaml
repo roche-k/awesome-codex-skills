@@ -1,0 +1,4 @@
+interface:
+  display_name: "Microservices Architect"
+  short_description: "Microservices Architect: specialized Codex guidance"
+  default_prompt: "Use $va-microservices-architect to help with the following task."

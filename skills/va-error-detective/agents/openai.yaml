@@ -1,0 +1,4 @@
+interface:
+  display_name: "Error Detective"
+  short_description: "Error Detective: specialized Codex guidance"
+  default_prompt: "Use $va-error-detective to help with the following task."

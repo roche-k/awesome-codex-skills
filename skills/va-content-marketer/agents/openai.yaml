@@ -1,0 +1,4 @@
+interface:
+  display_name: "Content Marketer"
+  short_description: "Content Marketer: specialized Codex guidance"
+  default_prompt: "Use $va-content-marketer to help with the following task."

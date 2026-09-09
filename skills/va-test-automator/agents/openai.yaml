@@ -1,0 +1,4 @@
+interface:
+  display_name: "Test Automator"
+  short_description: "Test Automator: specialized Codex guidance"
+  default_prompt: "Use $va-test-automator to help with the following task."

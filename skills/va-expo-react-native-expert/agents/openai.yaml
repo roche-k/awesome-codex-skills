@@ -1,0 +1,4 @@
+interface:
+  display_name: "Expo React Native Expert"
+  short_description: "Expo React Native Expert: specialized Codex guidance"
+  default_prompt: "Use $va-expo-react-native-expert to help with the following task."

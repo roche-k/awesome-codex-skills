@@ -1,0 +1,4 @@
+interface:
+  display_name: "Csharp Developer"
+  short_description: "Csharp Developer: specialized Codex guidance"
+  default_prompt: "Use $va-csharp-developer to help with the following task."

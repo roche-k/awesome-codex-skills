@@ -1,0 +1,4 @@
+interface:
+  display_name: "Iot Engineer"
+  short_description: "Iot Engineer: specialized Codex guidance"
+  default_prompt: "Use $va-iot-engineer to help with the following task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Machine Learning Engineer"
+  short_description: "Machine Learning Engineer: specialized Codex guidance"
+  default_prompt: "Use $va-machine-learning-engineer to help with the following task."

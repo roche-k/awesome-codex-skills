@@ -1,0 +1,4 @@
+interface:
+  display_name: "Content Quality Editor"
+  short_description: "Content Quality Editor: specialized Codex guidance"
+  default_prompt: "Use $va-content-quality-editor to help with the following task."

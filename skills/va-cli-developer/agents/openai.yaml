@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cli Developer"
+  short_description: "Cli Developer: specialized Codex guidance"
+  default_prompt: "Use $va-cli-developer to help with the following task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fintech Engineer"
+  short_description: "Fintech Engineer: specialized Codex guidance"
+  default_prompt: "Use $va-fintech-engineer to help with the following task."

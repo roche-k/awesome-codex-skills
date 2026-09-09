@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ai Engineer"
+  short_description: "Ai Engineer: specialized Codex guidance"
+  default_prompt: "Use $va-ai-engineer to help with the following task."

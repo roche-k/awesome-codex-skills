@@ -1,0 +1,4 @@
+interface:
+  display_name: "Llm Architect"
+  short_description: "Llm Architect: specialized Codex guidance"
+  default_prompt: "Use $va-llm-architect to help with the following task."

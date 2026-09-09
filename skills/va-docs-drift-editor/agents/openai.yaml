@@ -1,0 +1,4 @@
+interface:
+  display_name: "Docs Drift Editor"
+  short_description: "Docs Drift Editor: specialized Codex guidance"
+  default_prompt: "Use $va-docs-drift-editor to help with the following task."

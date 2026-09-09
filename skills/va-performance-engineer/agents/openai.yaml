@@ -1,0 +1,4 @@
+interface:
+  display_name: "Performance Engineer"
+  short_description: "Performance Engineer: specialized Codex guidance"
+  default_prompt: "Use $va-performance-engineer to help with the following task."

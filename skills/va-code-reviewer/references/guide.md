@@ -1,0 +1,234 @@
+# Domain guide
+
+Apply the relevant sections to the actual request. This adapted source is
+a menu of domain considerations, not a requirement to perform every item.
+Source version numbers and numeric targets are historical examples; use the
+project's real versions and agreed acceptance criteria. Check current primary
+documentation before relying on external APIs, standards, or provider behavior.
+Tool labels describe operations and do not grant unavailable tools or services.
+
+Code review checklist:
+- Zero critical security issues verified
+- Code coverage > 80% confirmed
+- Cyclomatic complexity < 10 maintained
+- No high-priority vulnerabilities found
+- Documentation complete and clear
+- No significant code smells detected
+- Performance impact validated thoroughly
+- Best practices followed consistently
+
+Code quality assessment:
+- Logic correctness
+- Error handling
+- Resource management
+- Naming conventions
+- Code organization
+- Function complexity
+- Duplication detection
+- Readability analysis
+
+Security review:
+- Input validation
+- Authentication checks
+- Authorization verification
+- Injection vulnerabilities
+- Cryptographic practices
+- Sensitive data handling
+- Dependencies scanning
+- Configuration security
+
+Performance analysis:
+- Algorithm efficiency
+- Database queries
+- Memory usage
+- CPU utilization
+- Network calls
+- Caching effectiveness
+- Async patterns
+- Resource leaks
+
+Design patterns:
+- SOLID principles
+- DRY compliance
+- Pattern appropriateness
+- Abstraction levels
+- Coupling analysis
+- Cohesion assessment
+- Interface design
+- Extensibility
+
+Test review:
+- Test coverage
+- Test quality
+- Edge cases
+- Mock usage
+- Test isolation
+- Performance tests
+- Integration tests
+- Documentation
+
+Documentation review:
+- Code comments
+- API documentation
+- README files
+- Architecture docs
+- Inline documentation
+- Example usage
+- Change logs
+- Migration guides
+
+Dependency analysis:
+- Version management
+- Security vulnerabilities
+- License compliance
+- Update requirements
+- Transitive dependencies
+- Size impact
+- Compatibility issues
+- Alternatives assessment
+
+Technical debt:
+- Code smells
+- Outdated patterns
+- TODO items
+- Deprecated usage
+- Refactoring needs
+- Modernization opportunities
+- Cleanup priorities
+- Migration planning
+
+Language-specific review:
+- JavaScript/TypeScript patterns
+- Python idioms
+- Java conventions
+- Go best practices
+- Rust safety
+- C++ standards
+- SQL optimization
+- Shell security
+
+Review automation:
+- Static analysis integration
+- CI/CD hooks
+- Automated suggestions
+- Review templates
+- Metric tracking
+- Trend analysis
+- Team dashboards
+- Quality gates
+
+## Development Workflow
+
+Execute code review through systematic phases:
+
+### 1. Review Preparation
+
+Understand code changes and review criteria.
+
+Preparation priorities:
+- Change scope analysis
+- Standard identification
+- Context gathering
+- Tool configuration
+- History review
+- Related issues
+- Team preferences
+- Priority setting
+
+Context evaluation:
+- Review pull request
+- Understand changes
+- Check related issues
+- Review history
+- Identify patterns
+- Set focus areas
+- Configure tools
+- Plan approach
+
+### 2. Implementation Phase
+
+Conduct thorough code review.
+
+Implementation approach:
+- Analyze systematically
+- Check security first
+- Verify correctness
+- Assess performance
+- Review maintainability
+- Validate tests
+- Check documentation
+- Provide feedback
+
+Review patterns:
+- Start with high-level
+- Focus on critical issues
+- Provide specific examples
+- Suggest improvements
+- Acknowledge good practices
+- Be constructive
+- Prioritize feedback
+- Follow up consistently
+
+### 3. Review Excellence
+
+Deliver high-quality code review feedback.
+
+Excellence checklist:
+- All files reviewed
+- Critical issues identified
+- Improvements suggested
+- Patterns recognized
+- Knowledge shared
+- Standards enforced
+- Team educated
+- Quality improved
+
+Review categories:
+- Security vulnerabilities
+- Performance bottlenecks
+- Memory leaks
+- Race conditions
+- Error handling
+- Input validation
+- Access control
+- Data integrity
+
+Best practices enforcement:
+- Clean code principles
+- SOLID compliance
+- DRY adherence
+- KISS philosophy
+- YAGNI principle
+- Defensive programming
+- Fail-fast approach
+- Documentation standards
+
+Constructive feedback:
+- Specific examples
+- Clear explanations
+- Alternative solutions
+- Learning resources
+- Positive reinforcement
+- Priority indication
+- Action items
+- Follow-up plans
+
+Team collaboration:
+- Knowledge sharing
+- Mentoring approach
+- Standard setting
+- Tool adoption
+- Process improvement
+- Metric tracking
+- Culture building
+- Continuous learning
+
+Review metrics:
+- Review turnaround
+- Issue detection rate
+- False positive rate
+- Team velocity impact
+- Quality improvement
+- Technical debt reduction
+- Security posture
+- Knowledge transfer

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Database Optimizer"
+  short_description: "Database Optimizer: specialized Codex guidance"
+  default_prompt: "Use $va-database-optimizer to help with the following task."

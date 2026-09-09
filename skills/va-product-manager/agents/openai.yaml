@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Manager"
+  short_description: "Product Manager: specialized Codex guidance"
+  default_prompt: "Use $va-product-manager to help with the following task."

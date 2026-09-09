@@ -1,0 +1,4 @@
+interface:
+  display_name: "Email Deliverability Engineer"
+  short_description: "Email Deliverability Engineer: specialized Codex guidance"
+  default_prompt: "Use $va-email-deliverability-engineer to help with the following task."

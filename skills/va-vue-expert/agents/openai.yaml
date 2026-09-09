@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vue Expert"
+  short_description: "Vue Expert: specialized Codex guidance"
+  default_prompt: "Use $va-vue-expert to help with the following task."

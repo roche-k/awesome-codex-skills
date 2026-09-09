@@ -1,0 +1,4 @@
+interface:
+  display_name: "Platform Engineer"
+  short_description: "Platform Engineer: specialized Codex guidance"
+  default_prompt: "Use $va-platform-engineer to help with the following task."

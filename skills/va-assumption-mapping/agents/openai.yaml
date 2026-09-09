@@ -1,0 +1,4 @@
+interface:
+  display_name: "Assumption Mapping"
+  short_description: "Assumption Mapping: specialized Codex guidance"
+  default_prompt: "Use $va-assumption-mapping to help with the following task."

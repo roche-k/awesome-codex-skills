@@ -1,0 +1,4 @@
+interface:
+  display_name: "Postgres Pro"
+  short_description: "Postgres Pro: specialized Codex guidance"
+  default_prompt: "Use $va-postgres-pro to help with the following task."

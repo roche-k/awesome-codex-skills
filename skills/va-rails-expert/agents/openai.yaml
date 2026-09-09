@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rails Expert"
+  short_description: "Rails Expert: specialized Codex guidance"
+  default_prompt: "Use $va-rails-expert to help with the following task."

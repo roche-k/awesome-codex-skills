@@ -1,0 +1,4 @@
+interface:
+  display_name: "Penetration Tester"
+  short_description: "Penetration Tester: specialized Codex guidance"
+  default_prompt: "Use $va-penetration-tester to help with the following task."

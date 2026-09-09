@@ -1,0 +1,4 @@
+interface:
+  display_name: "Data Analyst"
+  short_description: "Data Analyst: specialized Codex guidance"
+  default_prompt: "Use $va-data-analyst to help with the following task."

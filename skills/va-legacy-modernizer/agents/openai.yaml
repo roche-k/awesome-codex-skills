@@ -1,0 +1,4 @@
+interface:
+  display_name: "Legacy Modernizer"
+  short_description: "Legacy Modernizer: specialized Codex guidance"
+  default_prompt: "Use $va-legacy-modernizer to help with the following task."

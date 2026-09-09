@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Developer"
+  short_description: "Frontend Developer: specialized Codex guidance"
+  default_prompt: "Use $va-frontend-developer to help with the following task."

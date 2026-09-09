@@ -1,0 +1,4 @@
+interface:
+  display_name: "Readme Generator"
+  short_description: "Readme Generator: specialized Codex guidance"
+  default_prompt: "Use $va-readme-generator to help with the following task."

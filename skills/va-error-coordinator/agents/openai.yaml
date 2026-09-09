@@ -1,0 +1,4 @@
+interface:
+  display_name: "Error Coordinator"
+  short_description: "Error Coordinator: specialized Codex guidance"
+  default_prompt: "Use $va-error-coordinator to help with the following task."

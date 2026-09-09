@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Bridge"
+  short_description: "Design Bridge: specialized Codex guidance"
+  default_prompt: "Use $va-design-bridge to help with the following task."

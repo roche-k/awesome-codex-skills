@@ -1,0 +1,4 @@
+interface:
+  display_name: "Trend Analyst"
+  short_description: "Trend Analyst: specialized Codex guidance"
+  default_prompt: "Use $va-trend-analyst to help with the following task."

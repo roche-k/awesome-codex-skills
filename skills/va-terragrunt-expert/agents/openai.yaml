@@ -1,0 +1,4 @@
+interface:
+  display_name: "Terragrunt Expert"
+  short_description: "Terragrunt Expert: specialized Codex guidance"
+  default_prompt: "Use $va-terragrunt-expert to help with the following task."

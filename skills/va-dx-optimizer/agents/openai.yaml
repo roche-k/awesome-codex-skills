@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dx Optimizer"
+  short_description: "Dx Optimizer: specialized Codex guidance"
+  default_prompt: "Use $va-dx-optimizer to help with the following task."

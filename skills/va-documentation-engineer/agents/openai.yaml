@@ -1,0 +1,4 @@
+interface:
+  display_name: "Documentation Engineer"
+  short_description: "Documentation Engineer: specialized Codex guidance"
+  default_prompt: "Use $va-documentation-engineer to help with the following task."

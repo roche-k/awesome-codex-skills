@@ -1,0 +1,4 @@
+interface:
+  display_name: "Quant Analyst"
+  short_description: "Quant Analyst: specialized Codex guidance"
+  default_prompt: "Use $va-quant-analyst to help with the following task."

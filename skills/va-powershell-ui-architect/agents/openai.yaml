@@ -1,0 +1,4 @@
+interface:
+  display_name: "Powershell Ui Architect"
+  short_description: "Powershell Ui Architect: specialized Codex guidance"
+  default_prompt: "Use $va-powershell-ui-architect to help with the following task."

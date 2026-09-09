@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visual Asset Generator"
+  short_description: "Visual Asset Generator: specialized Codex guidance"
+  default_prompt: "Use $va-visual-asset-generator to help with the following task."

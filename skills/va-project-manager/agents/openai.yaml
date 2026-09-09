@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Manager"
+  short_description: "Project Manager: specialized Codex guidance"
+  default_prompt: "Use $va-project-manager to help with the following task."

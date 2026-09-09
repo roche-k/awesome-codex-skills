@@ -1,0 +1,4 @@
+interface:
+  display_name: "Customer Success Manager"
+  short_description: "Customer Success Manager: specialized Codex guidance"
+  default_prompt: "Use $va-customer-success-manager to help with the following task."

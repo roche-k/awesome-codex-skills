@@ -1,0 +1,4 @@
+interface:
+  display_name: "Api Designer"
+  short_description: "Api Designer: specialized Codex guidance"
+  default_prompt: "Use $va-api-designer to help with the following task."

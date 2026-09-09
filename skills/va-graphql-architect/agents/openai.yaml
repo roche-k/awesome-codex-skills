@@ -1,0 +1,4 @@
+interface:
+  display_name: "Graphql Architect"
+  short_description: "Graphql Architect: specialized Codex guidance"
+  default_prompt: "Use $va-graphql-architect to help with the following task."

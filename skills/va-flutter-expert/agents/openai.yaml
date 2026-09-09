@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flutter Expert"
+  short_description: "Flutter Expert: specialized Codex guidance"
+  default_prompt: "Use $va-flutter-expert to help with the following task."

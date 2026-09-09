@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rust Engineer"
+  short_description: "Rust Engineer: specialized Codex guidance"
+  default_prompt: "Use $va-rust-engineer to help with the following task."

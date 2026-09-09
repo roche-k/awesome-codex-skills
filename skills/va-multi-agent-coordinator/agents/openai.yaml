@@ -1,0 +1,4 @@
+interface:
+  display_name: "Multi Agent Coordinator"
+  short_description: "Multi Agent Coordinator: specialized Codex guidance"
+  default_prompt: "Use $va-multi-agent-coordinator to help with the following task."

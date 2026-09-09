@@ -1,0 +1,4 @@
+interface:
+  display_name: "Data Engineer"
+  short_description: "Data Engineer: specialized Codex guidance"
+  default_prompt: "Use $va-data-engineer to help with the following task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mlops Engineer"
+  short_description: "Mlops Engineer: specialized Codex guidance"
+  default_prompt: "Use $va-mlops-engineer to help with the following task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blockchain Developer"
+  short_description: "Blockchain Developer: specialized Codex guidance"
+  default_prompt: "Use $va-blockchain-developer to help with the following task."

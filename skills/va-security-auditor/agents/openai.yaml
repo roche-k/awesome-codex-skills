@@ -1,0 +1,4 @@
+interface:
+  display_name: "Security Auditor"
+  short_description: "Security Auditor: specialized Codex guidance"
+  default_prompt: "Use $va-security-auditor to help with the following task."

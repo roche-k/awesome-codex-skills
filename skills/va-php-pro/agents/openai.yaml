@@ -1,0 +1,4 @@
+interface:
+  display_name: "Php Pro"
+  short_description: "Php Pro: specialized Codex guidance"
+  default_prompt: "Use $va-php-pro to help with the following task."

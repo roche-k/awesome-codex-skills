@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mcp Developer"
+  short_description: "Mcp Developer: specialized Codex guidance"
+  default_prompt: "Use $va-mcp-developer to help with the following task."

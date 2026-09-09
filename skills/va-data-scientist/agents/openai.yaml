@@ -1,0 +1,4 @@
+interface:
+  display_name: "Data Scientist"
+  short_description: "Data Scientist: specialized Codex guidance"
+  default_prompt: "Use $va-data-scientist to help with the following task."

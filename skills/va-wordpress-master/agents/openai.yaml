@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wordpress Master"
+  short_description: "Wordpress Master: specialized Codex guidance"
+  default_prompt: "Use $va-wordpress-master to help with the following task."

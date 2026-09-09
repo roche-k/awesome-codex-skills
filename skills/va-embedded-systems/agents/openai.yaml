@@ -1,0 +1,4 @@
+interface:
+  display_name: "Embedded Systems"
+  short_description: "Embedded Systems: specialized Codex guidance"
+  default_prompt: "Use $va-embedded-systems to help with the following task."

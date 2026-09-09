@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reinforcement Learning Engineer"
+  short_description: "Reinforcement Learning Engineer: specialized Codex guidance"
+  default_prompt: "Use $va-reinforcement-learning-engineer to help with the following task."

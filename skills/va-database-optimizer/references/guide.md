@@ -1,0 +1,234 @@
+# Domain guide
+
+Apply the relevant sections to the actual request. This adapted source is
+a menu of domain considerations, not a requirement to perform every item.
+Source version numbers and numeric targets are historical examples; use the
+project's real versions and agreed acceptance criteria. Check current primary
+documentation before relying on external APIs, standards, or provider behavior.
+Tool labels describe operations and do not grant unavailable tools or services.
+
+Database optimization checklist:
+- Query time < 100ms achieved
+- Index usage > 95% maintained
+- Cache hit rate > 90% optimized
+- Lock waits < 1% minimized
+- Bloat < 20% controlled
+- Replication lag < 1s ensured
+- Connection pool optimized properly
+- Resource usage efficient consistently
+
+Query optimization:
+- Execution plan analysis
+- Query rewriting
+- Join optimization
+- Subquery elimination
+- CTE optimization
+- Window function tuning
+- Aggregation strategies
+- Parallel execution
+
+Index strategy:
+- Index selection
+- Covering indexes
+- Partial indexes
+- Expression indexes
+- Multi-column ordering
+- Index maintenance
+- Bloat prevention
+- Statistics updates
+
+Performance analysis:
+- Slow query identification
+- Execution plan review
+- Wait event analysis
+- Lock monitoring
+- I/O patterns
+- Memory usage
+- CPU utilization
+- Network latency
+
+Schema optimization:
+- Table design
+- Normalization balance
+- Partitioning strategy
+- Compression options
+- Data type selection
+- Constraint optimization
+- View materialization
+- Archive strategies
+
+Database systems:
+- PostgreSQL tuning
+- MySQL optimization
+- MongoDB indexing
+- Redis optimization
+- Cassandra tuning
+- ClickHouse queries
+- Elasticsearch tuning
+- Oracle optimization
+
+Memory optimization:
+- Buffer pool sizing
+- Cache configuration
+- Sort memory
+- Hash memory
+- Connection memory
+- Query memory
+- Temp table memory
+- OS cache tuning
+
+I/O optimization:
+- Storage layout
+- Read-ahead tuning
+- Write combining
+- Checkpoint tuning
+- Log optimization
+- Tablespace design
+- File distribution
+- SSD optimization
+
+Replication tuning:
+- Synchronous settings
+- Replication lag
+- Parallel workers
+- Network optimization
+- Conflict resolution
+- Read replica routing
+- Failover speed
+- Load distribution
+
+Advanced techniques:
+- Materialized views
+- Query hints
+- Columnar storage
+- Compression strategies
+- Sharding patterns
+- Read replicas
+- Write optimization
+- OLAP vs OLTP
+
+Monitoring setup:
+- Performance metrics
+- Query statistics
+- Wait events
+- Lock analysis
+- Resource tracking
+- Trend analysis
+- Alert thresholds
+- Dashboard creation
+
+## Development Workflow
+
+Execute database optimization through systematic phases:
+
+### 1. Performance Analysis
+
+Identify bottlenecks and optimization opportunities.
+
+Analysis priorities:
+- Slow query review
+- System metrics
+- Resource utilization
+- Wait events
+- Lock contention
+- I/O patterns
+- Cache efficiency
+- Growth trends
+
+Performance evaluation:
+- Collect baselines
+- Identify bottlenecks
+- Analyze patterns
+- Review configurations
+- Check indexes
+- Assess schemas
+- Plan optimizations
+- Set targets
+
+### 2. Implementation Phase
+
+Apply systematic optimizations.
+
+Implementation approach:
+- Optimize queries
+- Design indexes
+- Tune configuration
+- Adjust schemas
+- Improve caching
+- Reduce contention
+- Monitor impact
+- Document changes
+
+Optimization patterns:
+- Measure first
+- Change incrementally
+- Test thoroughly
+- Monitor impact
+- Document changes
+- Rollback ready
+- Iterate improvements
+- Share knowledge
+
+### 3. Performance Excellence
+
+Achieve optimal database performance.
+
+Excellence checklist:
+- Queries optimized
+- Indexes efficient
+- Cache maximized
+- Locks minimized
+- Resources balanced
+- Monitoring active
+- Documentation complete
+- Team trained
+
+Query patterns:
+- Index scan preference
+- Join order optimization
+- Predicate pushdown
+- Partition pruning
+- Aggregate pushdown
+- CTE materialization
+- Subquery optimization
+- Parallel execution
+
+Index strategies:
+- B-tree indexes
+- Hash indexes
+- GiST indexes
+- GIN indexes
+- BRIN indexes
+- Partial indexes
+- Expression indexes
+- Covering indexes
+
+Configuration tuning:
+- Memory allocation
+- Connection limits
+- Checkpoint settings
+- Vacuum settings
+- Statistics targets
+- Planner settings
+- Parallel workers
+- I/O settings
+
+Scaling techniques:
+- Vertical scaling
+- Horizontal sharding
+- Read replicas
+- Connection pooling
+- Query caching
+- Result caching
+- Partition strategies
+- Archive policies
+
+Troubleshooting:
+- Deadlock analysis
+- Lock timeout issues
+- Memory pressure
+- Disk space issues
+- Replication lag
+- Connection exhaustion
+- Plan regression
+- Statistics drift

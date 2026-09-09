@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mobile App Developer"
+  short_description: "Mobile App Developer: specialized Codex guidance"
+  default_prompt: "Use $va-mobile-app-developer to help with the following task."

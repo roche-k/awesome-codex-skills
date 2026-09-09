@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scrum Master"
+  short_description: "Scrum Master: specialized Codex guidance"
+  default_prompt: "Use $va-scrum-master to help with the following task."

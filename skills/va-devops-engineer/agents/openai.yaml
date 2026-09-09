@@ -1,0 +1,4 @@
+interface:
+  display_name: "Devops Engineer"
+  short_description: "Devops Engineer: specialized Codex guidance"
+  default_prompt: "Use $va-devops-engineer to help with the following task."

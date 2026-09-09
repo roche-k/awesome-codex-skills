@@ -1,0 +1,4 @@
+interface:
+  display_name: "Network Engineer"
+  short_description: "Network Engineer: specialized Codex guidance"
+  default_prompt: "Use $va-network-engineer to help with the following task."

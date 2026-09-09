@@ -1,0 +1,4 @@
+interface:
+  display_name: "Business Analyst"
+  short_description: "Business Analyst: specialized Codex guidance"
+  default_prompt: "Use $va-business-analyst to help with the following task."

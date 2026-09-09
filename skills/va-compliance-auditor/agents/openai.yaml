@@ -1,0 +1,4 @@
+interface:
+  display_name: "Compliance Auditor"
+  short_description: "Compliance Auditor: specialized Codex guidance"
+  default_prompt: "Use $va-compliance-auditor to help with the following task."

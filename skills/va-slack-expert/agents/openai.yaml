@@ -1,0 +1,4 @@
+interface:
+  display_name: "Slack Expert"
+  short_description: "Slack Expert: specialized Codex guidance"
+  default_prompt: "Use $va-slack-expert to help with the following task."

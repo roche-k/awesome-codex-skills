@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Organizer"
+  short_description: "Agent Organizer: specialized Codex guidance"
+  default_prompt: "Use $va-agent-organizer to help with the following task."

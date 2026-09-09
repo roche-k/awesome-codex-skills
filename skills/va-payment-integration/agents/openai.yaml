@@ -1,0 +1,4 @@
+interface:
+  display_name: "Payment Integration"
+  short_description: "Payment Integration: specialized Codex guidance"
+  default_prompt: "Use $va-payment-integration to help with the following task."

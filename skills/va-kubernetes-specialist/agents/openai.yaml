@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kubernetes Specialist"
+  short_description: "Kubernetes Specialist: specialized Codex guidance"
+  default_prompt: "Use $va-kubernetes-specialist to help with the following task."

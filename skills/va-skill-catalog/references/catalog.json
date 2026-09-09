@@ -1,0 +1,1430 @@
+{
+  "schema_version": 1,
+  "repository": "https://github.com/roche-k/awesome-codex-skills",
+  "upstream": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "upstream_revision": "3097abe2d0d1e83a9023c7a8d054c00aace24990",
+  "skills": [
+    {
+      "name": "va-api-designer",
+      "source_name": "api-designer",
+      "description": "Use when designing new APIs, creating API specifications, or refactoring existing API architecture for scalability and developer experience. Invoke when you need REST/GraphQL endpoint design, OpenAPI documentation, authentication patterns, or API versioning strategies.",
+      "category": "01-core-development",
+      "path": "skills/va-api-designer",
+      "source": "categories/01-core-development/api-designer.md",
+      "source_sha256": "dc8547318598b6abecfad8d3c5709c9bb21fc38c2e5f5b4f452bb02f668df1be"
+    },
+    {
+      "name": "va-backend-developer",
+      "source_name": "backend-developer",
+      "description": "Use when building server-side APIs, microservices, and backend systems that require robust architecture, scalability planning, and production-ready implementation.",
+      "category": "01-core-development",
+      "path": "skills/va-backend-developer",
+      "source": "categories/01-core-development/backend-developer.md",
+      "source_sha256": "f41444c6a10a4d57821a9eda26018bf94d92249c5da383e93ebbee08b6c051c3"
+    },
+    {
+      "name": "va-design-bridge",
+      "source_name": "design-bridge",
+      "description": "Translate a supplied DESIGN.md or visual design specification into concrete Codex implementation guidance while preserving its colors, typography, components, and responsive behavior.",
+      "category": "01-core-development",
+      "path": "skills/va-design-bridge",
+      "source": "categories/01-core-development/design-bridge.md",
+      "source_sha256": "09e4bb9fb784f27ab896d563e6048c1e5190d3877496a8d2bd5f566a659b179b"
+    },
+    {
+      "name": "va-electron-pro",
+      "source_name": "electron-pro",
+      "description": "Use when building Electron desktop applications that require native OS integration, cross-platform distribution, security hardening, and performance optimization. Use electron-pro for complete desktop app development from architecture to signed, distributable installers.",
+      "category": "01-core-development",
+      "path": "skills/va-electron-pro",
+      "source": "categories/01-core-development/electron-pro.md",
+      "source_sha256": "64c460c0f4ff108718c46a0e109ddfff48b68748c454efe7234e98199bb99ecb"
+    },
+    {
+      "name": "va-frontend-developer",
+      "source_name": "frontend-developer",
+      "description": "Use when building complete frontend applications across React, Vue, and Angular frameworks requiring multi-framework expertise and full-stack integration.",
+      "category": "01-core-development",
+      "path": "skills/va-frontend-developer",
+      "source": "categories/01-core-development/frontend-developer.md",
+      "source_sha256": "f0d9e9c05f3ed75afa6d72dce6803d59eb0410c8af01e74ef1c9931dc21ec122"
+    },
+    {
+      "name": "va-fullstack-developer",
+      "source_name": "fullstack-developer",
+      "description": "Use when you need to build complete features spanning database, API, and frontend layers together as a cohesive unit.",
+      "category": "01-core-development",
+      "path": "skills/va-fullstack-developer",
+      "source": "categories/01-core-development/fullstack-developer.md",
+      "source_sha256": "cd1f0df98b1ccc0e78540d777505736a5f0af619609476c19115abd65b3463f8"
+    },
+    {
+      "name": "va-graphql-architect",
+      "source_name": "graphql-architect",
+      "description": "Use when designing or evolving GraphQL schemas across microservices, implementing federation architectures, or optimizing query performance in distributed graphs.",
+      "category": "01-core-development",
+      "path": "skills/va-graphql-architect",
+      "source": "categories/01-core-development/graphql-architect.md",
+      "source_sha256": "a1faa57cd4e509ff6fb3d6545fb298c144b6c49107ceae71e9a28feed76b003f"
+    },
+    {
+      "name": "va-microservices-architect",
+      "source_name": "microservices-architect",
+      "description": "Use when designing distributed system architecture, decomposing monolithic applications into independent microservices, or establishing communication patterns between services at scale.",
+      "category": "01-core-development",
+      "path": "skills/va-microservices-architect",
+      "source": "categories/01-core-development/microservices-architect.md",
+      "source_sha256": "abd12f9568eda05ec9d6ac9edc958b55c2f7f7e17a2e14a2eba99e53efd8db20"
+    },
+    {
+      "name": "va-mobile-developer",
+      "source_name": "mobile-developer",
+      "description": "Use when building cross-platform mobile applications requiring native performance optimization, platform-specific features, and offline-first architecture. Use for React Native and Flutter projects where code sharing must exceed 80% while maintaining iOS and Android native excellence.",
+      "category": "01-core-development",
+      "path": "skills/va-mobile-developer",
+      "source": "categories/01-core-development/mobile-developer.md",
+      "source_sha256": "28b4192bb5f783a976952addaf0ac818f93df88b75d497bcd2597d7065c754ff"
+    },
+    {
+      "name": "va-ui-designer",
+      "source_name": "ui-designer",
+      "description": "Use when designing visual interfaces, creating design systems, building component libraries, or refining user-facing aesthetics requiring expert visual design, interaction patterns, and accessibility considerations.",
+      "category": "01-core-development",
+      "path": "skills/va-ui-designer",
+      "source": "categories/01-core-development/ui-designer.md",
+      "source_sha256": "60b69fc6d3da170b5570b29332d6000ee8f26f4b1df4e9bc680a44f57a37478c"
+    },
+    {
+      "name": "va-websocket-engineer",
+      "source_name": "websocket-engineer",
+      "description": "Use when implementing real-time bidirectional communication features using WebSockets, Socket.IO, or similar technologies at scale.",
+      "category": "01-core-development",
+      "path": "skills/va-websocket-engineer",
+      "source": "categories/01-core-development/websocket-engineer.md",
+      "source_sha256": "c0d4ac6f3f87b70a717250d1d462dfa3f313bb8eb24a27ab34075b862fac964b"
+    },
+    {
+      "name": "va-angular-architect",
+      "source_name": "angular-architect",
+      "description": "Use when architecting enterprise Angular 15+ applications with complex state management, optimizing RxJS patterns, designing micro-frontend systems, or solving performance and scalability challenges in large codebases.",
+      "category": "02-language-specialists",
+      "path": "skills/va-angular-architect",
+      "source": "categories/02-language-specialists/angular-architect.md",
+      "source_sha256": "70455b225603fdfc4f86b4ff862ebdd7551c4fbb4510aa547316e17c0a8f59e2"
+    },
+    {
+      "name": "va-cpp-pro",
+      "source_name": "cpp-pro",
+      "description": "Use when building high-performance C++ systems requiring modern C++20/23 features, template metaprogramming, or zero-overhead abstractions for systems programming, embedded systems, or performance-critical applications.",
+      "category": "02-language-specialists",
+      "path": "skills/va-cpp-pro",
+      "source": "categories/02-language-specialists/cpp-pro.md",
+      "source_sha256": "44a45b090fb2445cf90afa1774a90bd25e0ff7a8e41e7e1b61bf58faf5e63646"
+    },
+    {
+      "name": "va-csharp-developer",
+      "source_name": "csharp-developer",
+      "description": "Use when building ASP.NET Core web APIs, cloud-native .NET solutions, or modern C# applications requiring async patterns, dependency injection, Entity Framework optimization, and clean architecture.",
+      "category": "02-language-specialists",
+      "path": "skills/va-csharp-developer",
+      "source": "categories/02-language-specialists/csharp-developer.md",
+      "source_sha256": "9218f747ffe2c8dd1cf5397d61f04f5190c8ec7cbc53d8813460a5177af2ea44"
+    },
+    {
+      "name": "va-django-developer",
+      "source_name": "django-developer",
+      "description": "Use when building Django 4+ web applications, REST APIs, or modernizing existing Django projects with async views and enterprise patterns.",
+      "category": "02-language-specialists",
+      "path": "skills/va-django-developer",
+      "source": "categories/02-language-specialists/django-developer.md",
+      "source_sha256": "cf287d2fa4308f8088f8d17bd131c1b161d2fe2915e687df51d6bfbfefa1f1bb"
+    },
+    {
+      "name": "va-dotnet-core-expert",
+      "source_name": "dotnet-core-expert",
+      "description": "Use when building .NET Core applications requiring cloud-native architecture, high-performance microservices, modern C# patterns, or cross-platform deployment with minimal APIs and advanced ASP.NET Core features.",
+      "category": "02-language-specialists",
+      "path": "skills/va-dotnet-core-expert",
+      "source": "categories/02-language-specialists/dotnet-core-expert.md",
+      "source_sha256": "5ee0a29de4012697cdde54dd8a93d49755ab0c3c445a16151348970a90afb484"
+    },
+    {
+      "name": "va-dotnet-framework-4-8-expert",
+      "source_name": "dotnet-framework-4.8-expert",
+      "description": "Use when working on legacy .NET Framework 4.8 enterprise applications that require maintenance, modernization, or integration with Windows-based infrastructure.",
+      "category": "02-language-specialists",
+      "path": "skills/va-dotnet-framework-4-8-expert",
+      "source": "categories/02-language-specialists/dotnet-framework-4.8-expert.md",
+      "source_sha256": "2da0ccc817ad16268e935cb5394a10e6d9c276904ef2fed754ec2d7005d9e776"
+    },
+    {
+      "name": "va-elixir-expert",
+      "source_name": "elixir-expert",
+      "description": "Use when you need to build fault-tolerant, concurrent systems leveraging OTP patterns, GenServer architectures, and Phoenix framework for real-time applications.",
+      "category": "02-language-specialists",
+      "path": "skills/va-elixir-expert",
+      "source": "categories/02-language-specialists/elixir-expert.md",
+      "source_sha256": "f765f3c9b30d612967475b8ff733d13759238a93d7a961680c52ff243edb5f16"
+    },
+    {
+      "name": "va-expo-react-native-expert",
+      "source_name": "expo-react-native-expert",
+      "description": "Use when building mobile applications with Expo and React Native that require native module integration, navigation setup, performant animations, push notifications, OTA updates, or App Store/Play Store deployment.",
+      "category": "02-language-specialists",
+      "path": "skills/va-expo-react-native-expert",
+      "source": "categories/02-language-specialists/expo-react-native-expert.md",
+      "source_sha256": "b4303c0e3191b57f99122b95f237837b2f9b3a02f427a2886805e7ac24d736fd"
+    },
+    {
+      "name": "va-fastapi-developer",
+      "source_name": "fastapi-developer",
+      "description": "Use when building modern async Python APIs with FastAPI, implementing Pydantic v2 validation, dependency injection patterns, or deploying high-performance ASGI applications.",
+      "category": "02-language-specialists",
+      "path": "skills/va-fastapi-developer",
+      "source": "categories/02-language-specialists/fastapi-developer.md",
+      "source_sha256": "d446608d951060e7246c9935aa50034fe5bc96933b9e89bcee77e784dbf1f5e0"
+    },
+    {
+      "name": "va-flutter-expert",
+      "source_name": "flutter-expert",
+      "description": "Use when building cross-platform mobile applications with Flutter 3+ that require custom UI implementation, complex state management, native platform integrations, or performance optimization across iOS/Android/Web.",
+      "category": "02-language-specialists",
+      "path": "skills/va-flutter-expert",
+      "source": "categories/02-language-specialists/flutter-expert.md",
+      "source_sha256": "43ba411bdeca94b33ca66f1c7bba590ee853bb5c0e367a0f04fcb99e62c251d4"
+    },
+    {
+      "name": "va-golang-pro",
+      "source_name": "golang-pro",
+      "description": "Use when building Go applications requiring concurrent programming, high-performance systems, microservices, or cloud-native architectures where idiomatic patterns, error handling excellence, and efficiency are critical.",
+      "category": "02-language-specialists",
+      "path": "skills/va-golang-pro",
+      "source": "categories/02-language-specialists/golang-pro.md",
+      "source_sha256": "43c9d075601b5b6155117045c70da6a2a956c506e3c1cffa6f36e6920fd2b62d"
+    },
+    {
+      "name": "va-java-architect",
+      "source_name": "java-architect",
+      "description": "Use when designing enterprise Java architectures, migrating Spring Boot applications, or establishing microservices patterns for scalable cloud-native systems.",
+      "category": "02-language-specialists",
+      "path": "skills/va-java-architect",
+      "source": "categories/02-language-specialists/java-architect.md",
+      "source_sha256": "8518572de76b42c531db416553a16877c21a7e964ec390c69357440f579e0436"
+    },
+    {
+      "name": "va-javascript-pro",
+      "source_name": "javascript-pro",
+      "description": "Use when you need to build, optimize, or refactor modern JavaScript code for browser, Node.js, or full-stack applications requiring ES2023+ features, async patterns, or performance-critical implementations.",
+      "category": "02-language-specialists",
+      "path": "skills/va-javascript-pro",
+      "source": "categories/02-language-specialists/javascript-pro.md",
+      "source_sha256": "9dd9a27f2e2cef22246aed30ae55b277e6eb8098aefa866830d8f75c841e10f7"
+    },
+    {
+      "name": "va-kotlin-specialist",
+      "source_name": "kotlin-specialist",
+      "description": "Use when building Kotlin applications requiring advanced coroutine patterns, multiplatform code sharing, or Android/server-side development with functional programming principles.",
+      "category": "02-language-specialists",
+      "path": "skills/va-kotlin-specialist",
+      "source": "categories/02-language-specialists/kotlin-specialist.md",
+      "source_sha256": "554c9af506dde32794c631d2db72ca85a097c943d41122efb83430c08d18efb4"
+    },
+    {
+      "name": "va-laravel-specialist",
+      "source_name": "laravel-specialist",
+      "description": "Use when building Laravel 10+ applications, architecting Eloquent models with complex relationships, implementing queue systems for async processing, or optimizing API performance.",
+      "category": "02-language-specialists",
+      "path": "skills/va-laravel-specialist",
+      "source": "categories/02-language-specialists/laravel-specialist.md",
+      "source_sha256": "6d70b32a1b423e0cf7825a5477b8a6dc1b20cf4f94ef9fa44a661ff396284c99"
+    },
+    {
+      "name": "va-nextjs-developer",
+      "source_name": "nextjs-developer",
+      "description": "Use when building production Next.js 14+ applications that require full-stack development with App Router, server components, and advanced performance optimization. Invoke when you need to architect or implement complete Next.js applications, optimize Core Web Vitals, implement server actions and mutations, or deploy SEO-optimized applications.",
+      "category": "02-language-specialists",
+      "path": "skills/va-nextjs-developer",
+      "source": "categories/02-language-specialists/nextjs-developer.md",
+      "source_sha256": "435a9c43ef696ed9f268e7ba0a7a20a422697e8227c95af9b4acce37a8c6e540"
+    },
+    {
+      "name": "va-node-specialist",
+      "source_name": "node-specialist",
+      "description": "Use when you need to build, optimize, or debug Node.js backend applications, APIs, CLIs, or microservices requiring deep ecosystem knowledge and server-side JavaScript expertise.",
+      "category": "02-language-specialists",
+      "path": "skills/va-node-specialist",
+      "source": "categories/02-language-specialists/node-specialist.md",
+      "source_sha256": "66dbdce87cf90ca4a521040f6ce5bab1278c1d2205dadaa92645527ace0fd158"
+    },
+    {
+      "name": "va-php-pro",
+      "source_name": "php-pro",
+      "description": "Use when working with PHP 8.3+ projects that require strict typing, modern language features, and enterprise framework expertise (Laravel or Symfony). Use when building scalable applications, optimizing performance, or requiring async/Fiber patterns.",
+      "category": "02-language-specialists",
+      "path": "skills/va-php-pro",
+      "source": "categories/02-language-specialists/php-pro.md",
+      "source_sha256": "ef94e49952e026429c25ed0f0707df7e5f3b6fbb2a5c5dfdadf87e856585572b"
+    },
+    {
+      "name": "va-powershell-5-1-expert",
+      "source_name": "powershell-5.1-expert",
+      "description": "Use when automating Windows infrastructure tasks requiring PowerShell 5.1 scripts with RSAT modules for Active Directory, DNS, DHCP, GPO management, or when building safe, enterprise-grade automation workflows in legacy .NET Framework environments.",
+      "category": "02-language-specialists",
+      "path": "skills/va-powershell-5-1-expert",
+      "source": "categories/02-language-specialists/powershell-5.1-expert.md",
+      "source_sha256": "aa18330ea42c34033e9a39474eed43d635ddbd3340c1d310aa589452b56ae4db"
+    },
+    {
+      "name": "va-powershell-7-expert",
+      "source_name": "powershell-7-expert",
+      "description": "Use when building cross-platform cloud automation scripts, Azure infrastructure orchestration, or CI/CD pipelines requiring PowerShell 7+ with modern .NET interop, idempotent operations, and enterprise-grade error handling.",
+      "category": "02-language-specialists",
+      "path": "skills/va-powershell-7-expert",
+      "source": "categories/02-language-specialists/powershell-7-expert.md",
+      "source_sha256": "f49babe8c570e25e9f5cc2a95bd4dc6d8bf256c5d81e24f4c1e10fb4b0660967"
+    },
+    {
+      "name": "va-python-pro",
+      "source_name": "python-pro",
+      "description": "Use when you need to build type-safe, production-ready Python code for web APIs, system utilities, or complex applications requiring modern async patterns and extensive type coverage.",
+      "category": "02-language-specialists",
+      "path": "skills/va-python-pro",
+      "source": "categories/02-language-specialists/python-pro.md",
+      "source_sha256": "b87dba6a73d6f61d0aea24fc73f757c9e75f53cea1df117f0c8aa0c7432a1e16"
+    },
+    {
+      "name": "va-rails-expert",
+      "source_name": "rails-expert",
+      "description": "Use when building or modernizing Rails applications requiring API development, Hotwire reactivity, real-time features, background job processing, deployment automation, or Rails-idiomatic patterns for maximum productivity. Version-aware: adapts to Rails 7.x and 8.x projects.",
+      "category": "02-language-specialists",
+      "path": "skills/va-rails-expert",
+      "source": "categories/02-language-specialists/rails-expert.md",
+      "source_sha256": "71f849ecdf12d0f91472acf24d1c009109a3323a13cb1cd7bac64ad3fb8fc971"
+    },
+    {
+      "name": "va-react-specialist",
+      "source_name": "react-specialist",
+      "description": "Use when optimizing existing React applications for performance, implementing advanced React 18+ features, or solving complex state management and architectural challenges within React codebases.",
+      "category": "02-language-specialists",
+      "path": "skills/va-react-specialist",
+      "source": "categories/02-language-specialists/react-specialist.md",
+      "source_sha256": "dc65bfdaf4f4f8d6c796cf17e3c52bade3f055ba0eb7bd83cbb6f5fa86e8ede2"
+    },
+    {
+      "name": "va-rust-engineer",
+      "source_name": "rust-engineer",
+      "description": "Use when building Rust systems where memory safety, ownership patterns, zero-cost abstractions, and performance optimization are critical for systems programming, embedded development, async applications, or high-performance services.",
+      "category": "02-language-specialists",
+      "path": "skills/va-rust-engineer",
+      "source": "categories/02-language-specialists/rust-engineer.md",
+      "source_sha256": "246fa5cd281c21831f67087e1f5207640f95991407c9c6c62df33108aab4b3ca"
+    },
+    {
+      "name": "va-spring-boot-engineer",
+      "source_name": "spring-boot-engineer",
+      "description": "Use when building enterprise Spring Boot 3+ applications requiring microservices architecture, cloud-native deployment, or reactive programming patterns.",
+      "category": "02-language-specialists",
+      "path": "skills/va-spring-boot-engineer",
+      "source": "categories/02-language-specialists/spring-boot-engineer.md",
+      "source_sha256": "b09a4d457549ba7156682d3246364981eb4d8ce2dad4dc26464d55a40cf61fb0"
+    },
+    {
+      "name": "va-sql-pro",
+      "source_name": "sql-pro",
+      "description": "Use when you need to optimize complex SQL queries, design efficient database schemas, or solve performance issues across PostgreSQL, MySQL, SQL Server, and Oracle requiring advanced query optimization, index strategies, or data warehouse patterns.",
+      "category": "02-language-specialists",
+      "path": "skills/va-sql-pro",
+      "source": "categories/02-language-specialists/sql-pro.md",
+      "source_sha256": "58e44f20f89eef3a14ad94ccdb13b9aaeff4ae5d5895afea0a8220508b384fa1"
+    },
+    {
+      "name": "va-swift-expert",
+      "source_name": "swift-expert",
+      "description": "Use when building native iOS, macOS, or server-side Swift applications requiring advanced concurrency patterns, protocol-oriented architecture, and Swift-specific optimizations. Invoke for SwiftUI modernization, async/await implementation, actor-based state management, or memory safety concerns.",
+      "category": "02-language-specialists",
+      "path": "skills/va-swift-expert",
+      "source": "categories/02-language-specialists/swift-expert.md",
+      "source_sha256": "38e2fd4af846749aeb1cc64cf938da7bdcc19c367f67e09bd437d76e537695d9"
+    },
+    {
+      "name": "va-symfony-specialist",
+      "source_name": "symfony-specialist",
+      "description": "Use when building Symfony 6+/7+/8+ applications, architecting Doctrine ORM entities with complex relationships, implementing Messenger component for async processing, or optimizing API Platform performance.",
+      "category": "02-language-specialists",
+      "path": "skills/va-symfony-specialist",
+      "source": "categories/02-language-specialists/symfony-specialist.md",
+      "source_sha256": "786259a67df10d59802dbb2047a39cea537815b28cf303095e8b011a9262ed57"
+    },
+    {
+      "name": "va-typescript-pro",
+      "source_name": "typescript-pro",
+      "description": "Use when implementing TypeScript code requiring advanced type system patterns, complex generics, type-level programming, or end-to-end type safety across full-stack applications.",
+      "category": "02-language-specialists",
+      "path": "skills/va-typescript-pro",
+      "source": "categories/02-language-specialists/typescript-pro.md",
+      "source_sha256": "c0a7334e2bf049edb7114ac4ac345c253e72dd9d0135464a9dec8f029aa15f31"
+    },
+    {
+      "name": "va-vue-expert",
+      "source_name": "vue-expert",
+      "description": "Use when building Vue 3 applications that require Composition API mastery, reactivity optimization, or Nuxt 3 development with enterprise-scale performance concerns.",
+      "category": "02-language-specialists",
+      "path": "skills/va-vue-expert",
+      "source": "categories/02-language-specialists/vue-expert.md",
+      "source_sha256": "e6955b3e60f1443650d6fd8fd39e7ffb0221ab76ddd6f8a57e970b1389a4b849"
+    },
+    {
+      "name": "va-azure-infra-engineer",
+      "source_name": "azure-infra-engineer",
+      "description": "Use when designing, deploying, or managing Azure infrastructure with focus on network architecture, Entra ID integration, PowerShell automation, and Bicep IaC.",
+      "category": "03-infrastructure",
+      "path": "skills/va-azure-infra-engineer",
+      "source": "categories/03-infrastructure/azure-infra-engineer.md",
+      "source_sha256": "8785897b269f920b57f1d15d64f1a105c92939f711bb8c39dc905b35ea9b5add"
+    },
+    {
+      "name": "va-cloud-architect",
+      "source_name": "cloud-architect",
+      "description": "Use when you need to design, evaluate, or optimize cloud infrastructure architecture at scale. Invoke when designing multi-cloud strategies, planning cloud migrations, implementing disaster recovery, optimizing cloud costs, or ensuring security/compliance across cloud platforms.",
+      "category": "03-infrastructure",
+      "path": "skills/va-cloud-architect",
+      "source": "categories/03-infrastructure/cloud-architect.md",
+      "source_sha256": "f8dd5dd1ece6c39ba6123607fe7eafa66d82105099da7f99697ba2a603189cd0"
+    },
+    {
+      "name": "va-database-administrator",
+      "source_name": "database-administrator",
+      "description": "Use when optimizing database performance, implementing high-availability architectures, setting up disaster recovery, or managing database infrastructure for production systems.",
+      "category": "03-infrastructure",
+      "path": "skills/va-database-administrator",
+      "source": "categories/03-infrastructure/database-administrator.md",
+      "source_sha256": "7d120d1291d97e6c4d86ab28f2edb942c2471fc0e1bd3455db83151da8584617"
+    },
+    {
+      "name": "va-deployment-engineer",
+      "source_name": "deployment-engineer",
+      "description": "Use when designing, building, or optimizing CI/CD pipelines and deployment automation strategies.",
+      "category": "03-infrastructure",
+      "path": "skills/va-deployment-engineer",
+      "source": "categories/03-infrastructure/deployment-engineer.md",
+      "source_sha256": "a66f61a8ed107becc46fdfd2a6f343734ea6ce3d49880eac02f243c0f1d2734c"
+    },
+    {
+      "name": "va-devops-engineer",
+      "source_name": "devops-engineer",
+      "description": "Use when building or optimizing infrastructure automation, CI/CD pipelines, containerization strategies, and deployment workflows to accelerate software delivery while maintaining reliability and security.",
+      "category": "03-infrastructure",
+      "path": "skills/va-devops-engineer",
+      "source": "categories/03-infrastructure/devops-engineer.md",
+      "source_sha256": "0d62477d005660f1e43691a35bb5a94b40195cbe0c7e8da42de29a61c536b309"
+    },
+    {
+      "name": "va-devops-incident-responder",
+      "source_name": "devops-incident-responder",
+      "description": "Use when actively responding to production incidents, diagnosing critical service failures, or conducting incident postmortems to implement permanent fixes and preventative measures.",
+      "category": "03-infrastructure",
+      "path": "skills/va-devops-incident-responder",
+      "source": "categories/03-infrastructure/devops-incident-responder.md",
+      "source_sha256": "e9e980f71c7436a9c101ec62e283a94db7819a16e9ac97569efd64bc0fe979dd"
+    },
+    {
+      "name": "va-docker-expert",
+      "source_name": "docker-expert",
+      "description": "Use when you need to build, optimize, or secure Docker container images and orchestration for production environments.",
+      "category": "03-infrastructure",
+      "path": "skills/va-docker-expert",
+      "source": "categories/03-infrastructure/docker-expert.md",
+      "source_sha256": "42aacc5f7e9cce3aa8950d25c55ebae7261262785681ff61f7ef37f7e39499e2"
+    },
+    {
+      "name": "va-incident-responder",
+      "source_name": "incident-responder",
+      "description": "Use when an active security breach, service outage, or operational incident requires immediate response, evidence preservation, and coordinated recovery.",
+      "category": "03-infrastructure",
+      "path": "skills/va-incident-responder",
+      "source": "categories/03-infrastructure/incident-responder.md",
+      "source_sha256": "46d74353536e71be894cccfe9f3b6c535755a21b2fe1d129abc59bea9e453094"
+    },
+    {
+      "name": "va-kubernetes-specialist",
+      "source_name": "kubernetes-specialist",
+      "description": "Use when you need to design, deploy, configure, or troubleshoot Kubernetes clusters and workloads in production environments.",
+      "category": "03-infrastructure",
+      "path": "skills/va-kubernetes-specialist",
+      "source": "categories/03-infrastructure/kubernetes-specialist.md",
+      "source_sha256": "516f32371c52c60664036901530f31c40b24e4f6acac96917ee28ecaf02f93c6"
+    },
+    {
+      "name": "va-network-engineer",
+      "source_name": "network-engineer",
+      "description": "Use when designing, optimizing, or troubleshooting cloud and hybrid network infrastructures, or when addressing network security, performance, or reliability challenges.",
+      "category": "03-infrastructure",
+      "path": "skills/va-network-engineer",
+      "source": "categories/03-infrastructure/network-engineer.md",
+      "source_sha256": "b7a84bf95e3d3df37a8c3136780587e008ca37c9079ce1ca2037572be25a66fc"
+    },
+    {
+      "name": "va-platform-engineer",
+      "source_name": "platform-engineer",
+      "description": "Use when building or improving internal developer platforms (IDPs), designing self-service infrastructure, or optimizing developer workflows to reduce friction and accelerate delivery. The platform-engineer agent specializes in designing platform architecture, implementing golden paths, and maximizing developer self-service capabilities.",
+      "category": "03-infrastructure",
+      "path": "skills/va-platform-engineer",
+      "source": "categories/03-infrastructure/platform-engineer.md",
+      "source_sha256": "ce8b56c64fb71a65043aa24b9e07952a52887a4cadd9344566cd295898addf8b"
+    },
+    {
+      "name": "va-security-engineer",
+      "source_name": "security-engineer",
+      "description": "Use when implementing comprehensive security solutions across infrastructure, building automated security controls into CI/CD pipelines, or establishing compliance and vulnerability management programs. Invoke for threat modeling, zero-trust architecture design, security automation implementation, and shifting security left into development workflows.",
+      "category": "03-infrastructure",
+      "path": "skills/va-security-engineer",
+      "source": "categories/03-infrastructure/security-engineer.md",
+      "source_sha256": "2fd3bc9413b944da3ab05ca70b669437357b0217c92e24fb93d235fd41d0f854"
+    },
+    {
+      "name": "va-sre-engineer",
+      "source_name": "sre-engineer",
+      "description": "Use when you need to establish or improve system reliability through SLO definition, error budget management, and automation. Invoke when implementing SLI/SLO frameworks, reducing operational toil, designing fault-tolerant systems, conducting chaos engineering, or optimizing incident response processes.",
+      "category": "03-infrastructure",
+      "path": "skills/va-sre-engineer",
+      "source": "categories/03-infrastructure/sre-engineer.md",
+      "source_sha256": "8ab8567c2b07920e43175fea10e99436cb32a58fffd0812b821014a6a3235213"
+    },
+    {
+      "name": "va-terraform-engineer",
+      "source_name": "terraform-engineer",
+      "description": "Use when building, refactoring, or scaling infrastructure as code using Terraform with focus on multi-cloud deployments, module architecture, and enterprise-grade state management.",
+      "category": "03-infrastructure",
+      "path": "skills/va-terraform-engineer",
+      "source": "categories/03-infrastructure/terraform-engineer.md",
+      "source_sha256": "3486da207e3c2e5555f746909dbbe5942dc094358b55e040a99b691b473cf845"
+    },
+    {
+      "name": "va-terragrunt-expert",
+      "source_name": "terragrunt-expert",
+      "description": "Expert Terragrunt specialist mastering infrastructure orchestration, DRY configurations, and multi-environment deployments. Masters stacks, units, dependency management, and scalable IaC patterns with focus on code reuse, maintainability, and enterprise-grade infrastructure automation.",
+      "category": "03-infrastructure",
+      "path": "skills/va-terragrunt-expert",
+      "source": "categories/03-infrastructure/terragrunt-expert.md",
+      "source_sha256": "2be6aa489efd8b2aaddf8c81e28060995e5797bb0d1cd69a501ac065c87e7d44"
+    },
+    {
+      "name": "va-windows-infra-admin",
+      "source_name": "windows-infra-admin",
+      "description": "Use when managing Windows Server infrastructure, Active Directory, DNS, DHCP, and Group Policy configurations, especially for enterprise-scale deployments requiring safe automation and compliance validation.",
+      "category": "03-infrastructure",
+      "path": "skills/va-windows-infra-admin",
+      "source": "categories/03-infrastructure/windows-infra-admin.md",
+      "source_sha256": "00a7e1650682b3ea4750ac65ef9eae72c0e5131cfcbd57e81ae23a6619d131bd"
+    },
+    {
+      "name": "va-accessibility-tester",
+      "source_name": "accessibility-tester",
+      "description": "Use when you need comprehensive accessibility testing, WCAG compliance verification, or assessment of assistive technology support.",
+      "category": "04-quality-security",
+      "path": "skills/va-accessibility-tester",
+      "source": "categories/04-quality-security/accessibility-tester.md",
+      "source_sha256": "70812302dd16990073f08e84a5cd951883c5684a7e7a1c4351cdfc288d2c700d"
+    },
+    {
+      "name": "va-ad-security-reviewer",
+      "source_name": "ad-security-reviewer",
+      "description": "Use when you need to audit Active Directory security posture, evaluate privilege escalation risks, review identity delegation patterns, or assess authentication protocol hardening.",
+      "category": "04-quality-security",
+      "path": "skills/va-ad-security-reviewer",
+      "source": "categories/04-quality-security/ad-security-reviewer.md",
+      "source_sha256": "1c45b9c4ca6956927917fa985c75d21089b0b09116ea6609fac67eef8aeb06de"
+    },
+    {
+      "name": "va-ai-writing-auditor",
+      "source_name": "ai-writing-auditor",
+      "description": "Use when you need to audit content for AI writing patterns and rewrite text to remove them.",
+      "category": "04-quality-security",
+      "path": "skills/va-ai-writing-auditor",
+      "source": "categories/04-quality-security/ai-writing-auditor.md",
+      "source_sha256": "93fae344f95e4149d949122a2158cd95820769553b4443edc9f52b364a9678b4"
+    },
+    {
+      "name": "va-architect-reviewer",
+      "source_name": "architect-reviewer",
+      "description": "Use when you need to evaluate system design decisions, architectural patterns, and technology choices at the macro level.",
+      "category": "04-quality-security",
+      "path": "skills/va-architect-reviewer",
+      "source": "categories/04-quality-security/architect-reviewer.md",
+      "source_sha256": "7c7e8301852b2a0b44404955272ac1d6156dedab9a0aad519a9f25d49d8616d4"
+    },
+    {
+      "name": "va-chaos-engineer",
+      "source_name": "chaos-engineer",
+      "description": "Use when you need to design and execute controlled failure experiments, validate system resilience before incidents occur, or conduct game day exercises to test your team's incident response capabilities.",
+      "category": "04-quality-security",
+      "path": "skills/va-chaos-engineer",
+      "source": "categories/04-quality-security/chaos-engineer.md",
+      "source_sha256": "5cb0bfda8256264bb8e3e41bbb613d1d86f2236dd60938bdf585e35958947ad4"
+    },
+    {
+      "name": "va-code-reviewer",
+      "source_name": "code-reviewer",
+      "description": "Use when you need to conduct comprehensive code reviews focusing on code quality, security vulnerabilities, and best practices.",
+      "category": "04-quality-security",
+      "path": "skills/va-code-reviewer",
+      "source": "categories/04-quality-security/code-reviewer.md",
+      "source_sha256": "cf8235884dd8b4bc15aa20cc822f727ecbde2b65823b7ba2b027a638804dfc78"
+    },
+    {
+      "name": "va-compliance-auditor",
+      "source_name": "compliance-auditor",
+      "description": "Use when you need to achieve regulatory compliance, implement compliance controls, or prepare for audits across frameworks like GDPR, HIPAA, PCI DSS, SOC 2, and ISO standards.",
+      "category": "04-quality-security",
+      "path": "skills/va-compliance-auditor",
+      "source": "categories/04-quality-security/compliance-auditor.md",
+      "source_sha256": "65ac82b84b9b5e6d43ebdc62c274e892b2f59f15cb5536e7f774b9ac3742fd98"
+    },
+    {
+      "name": "va-debugger",
+      "source_name": "debugger",
+      "description": "Use when you need to diagnose and fix bugs, identify root causes of failures, or analyze error logs and stack traces to resolve issues.",
+      "category": "04-quality-security",
+      "path": "skills/va-debugger",
+      "source": "categories/04-quality-security/debugger.md",
+      "source_sha256": "7e39938967cb1313f803a603e215ad0d8c778e0913328ccee220bb8470d617f3"
+    },
+    {
+      "name": "va-error-detective",
+      "source_name": "error-detective",
+      "description": "Use when you need to diagnose why errors are occurring in your system, correlate errors across services, identify root causes, and prevent future failures.",
+      "category": "04-quality-security",
+      "path": "skills/va-error-detective",
+      "source": "categories/04-quality-security/error-detective.md",
+      "source_sha256": "41d8a798f9c367103e99adb40471060ff1fb9aa2c9b2783c0ad690b68ddd6a46"
+    },
+    {
+      "name": "va-gdpr-ccpa-compliance",
+      "source_name": "gdpr-ccpa-compliance",
+      "description": "Use when the user needs to understand GDPR or CCPA compliance, review data practices, or assess privacy requirements.",
+      "category": "04-quality-security",
+      "path": "skills/va-gdpr-ccpa-compliance",
+      "source": "categories/04-quality-security/gdpr-ccpa-compliance.md",
+      "source_sha256": "71792aa0efbff1951e486a24219d975cd1ed1a32add183c38ae4efcba88b3033"
+    },
+    {
+      "name": "va-penetration-tester",
+      "source_name": "penetration-tester",
+      "description": "Use when you need to conduct authorized security penetration tests to identify real vulnerabilities through active exploitation and validation. Use penetration-tester for offensive security testing, vulnerability exploitation, and hands-on risk demonstration.",
+      "category": "04-quality-security",
+      "path": "skills/va-penetration-tester",
+      "source": "categories/04-quality-security/penetration-tester.md",
+      "source_sha256": "cf0bb6bc6e4d8772fa466b1ecf4a7a0bf8d0b7c81dd8b68841c627fdbf4042b1"
+    },
+    {
+      "name": "va-performance-engineer",
+      "source_name": "performance-engineer",
+      "description": "Use when you need to identify and eliminate performance bottlenecks in applications, databases, or infrastructure systems, and when baseline performance metrics need improvement.",
+      "category": "04-quality-security",
+      "path": "skills/va-performance-engineer",
+      "source": "categories/04-quality-security/performance-engineer.md",
+      "source_sha256": "3f3f6ac069818a21fbd106ce7d2d374fb32342dc1197a8148bc6f9ae8fdde277"
+    },
+    {
+      "name": "va-powershell-security-hardening",
+      "source_name": "powershell-security-hardening",
+      "description": "Use when you need to harden PowerShell automation, secure remoting configuration, enforce least-privilege design, or align scripts with enterprise security baselines and compliance frameworks.",
+      "category": "04-quality-security",
+      "path": "skills/va-powershell-security-hardening",
+      "source": "categories/04-quality-security/powershell-security-hardening.md",
+      "source_sha256": "b4b43e7389d6ab2b74439267b535308adb7e7b59b906389473a613ed1b46396e"
+    },
+    {
+      "name": "va-qa-expert",
+      "source_name": "qa-expert",
+      "description": "Use when you need comprehensive quality assurance strategy, test planning across the entire development cycle, or quality metrics analysis to improve overall software quality.",
+      "category": "04-quality-security",
+      "path": "skills/va-qa-expert",
+      "source": "categories/04-quality-security/qa-expert.md",
+      "source_sha256": "26e34e3ef0185fa230b1ab396de4339c7947fc59dc6503361377c7ab1f0c3abf"
+    },
+    {
+      "name": "va-security-auditor",
+      "source_name": "security-auditor",
+      "description": "Use when conducting comprehensive security audits, compliance assessments, or risk evaluations across systems, infrastructure, and processes. Invoke when you need systematic vulnerability analysis, compliance gap identification, or evidence-based security findings.",
+      "category": "04-quality-security",
+      "path": "skills/va-security-auditor",
+      "source": "categories/04-quality-security/security-auditor.md",
+      "source_sha256": "62b0e511c9e0d8f1ec02b2fe0f4a1806134c850508c55420f558457225b1eb7d"
+    },
+    {
+      "name": "va-test-automator",
+      "source_name": "test-automator",
+      "description": "Use when you need to build, implement, or enhance automated test frameworks, create test scripts, or integrate testing into CI/CD pipelines.",
+      "category": "04-quality-security",
+      "path": "skills/va-test-automator",
+      "source": "categories/04-quality-security/test-automator.md",
+      "source_sha256": "811f2e71b5f74f1f0780da4b657737df056ef07eec2dd85b2492d1d58edd5dba"
+    },
+    {
+      "name": "va-ui-ux-tester",
+      "source_name": "ui-ux-tester",
+      "description": "Use when you need exhaustive UI and UX functionality testing driven by documented user flows, with browser or desktop interaction tooling and structured defect reporting.",
+      "category": "04-quality-security",
+      "path": "skills/va-ui-ux-tester",
+      "source": "categories/04-quality-security/ui-ux-tester.md",
+      "source_sha256": "58c29365c55c717d558d115510d9ef6c448957fa1ad11b2341699ad000b2aa1e"
+    },
+    {
+      "name": "va-ai-engineer",
+      "source_name": "ai-engineer",
+      "description": "Use when architecting, implementing, or optimizing end-to-end AI systems\u2014from model selection and training pipelines to production deployment and monitoring.",
+      "category": "05-data-ai",
+      "path": "skills/va-ai-engineer",
+      "source": "categories/05-data-ai/ai-engineer.md",
+      "source_sha256": "120ac8225dd466ad7ae4c98f8f8cf6374c87cebe0d7217c6f4e5fcb7654e9c51"
+    },
+    {
+      "name": "va-data-analyst",
+      "source_name": "data-analyst",
+      "description": "Use when you need to extract insights from business data, create dashboards and reports, or perform statistical analysis to support decision-making.",
+      "category": "05-data-ai",
+      "path": "skills/va-data-analyst",
+      "source": "categories/05-data-ai/data-analyst.md",
+      "source_sha256": "ca0937b865f852a4af68e538b601d47d4462c978b6d0a46383a460a60b7c36e2"
+    },
+    {
+      "name": "va-data-engineer",
+      "source_name": "data-engineer",
+      "description": "Use when you need to design, build, or optimize data pipelines, ETL/ELT processes, and data infrastructure. Invoke when designing data platforms, implementing pipeline orchestration, handling data quality issues, or optimizing data processing costs.",
+      "category": "05-data-ai",
+      "path": "skills/va-data-engineer",
+      "source": "categories/05-data-ai/data-engineer.md",
+      "source_sha256": "4337bd149e471a58c54e7d182564fa195753b54f76c9b3040dc2219f8a18af26"
+    },
+    {
+      "name": "va-data-scientist",
+      "source_name": "data-scientist",
+      "description": "Use when you need to analyze data patterns, build predictive models, or extract statistical insights from datasets. Use this skill for exploratory analysis, hypothesis testing, machine learning model development, and translating findings into business recommendations.",
+      "category": "05-data-ai",
+      "path": "skills/va-data-scientist",
+      "source": "categories/05-data-ai/data-scientist.md",
+      "source_sha256": "d5d51ae2ac59e57a6537d94e6a3cb1ec38e8430d3aad0595cba7296c6b98fb97"
+    },
+    {
+      "name": "va-database-optimizer",
+      "source_name": "database-optimizer",
+      "description": "Use when you need to analyze slow queries, optimize database performance across multiple systems, or implement indexing strategies to improve query execution.",
+      "category": "05-data-ai",
+      "path": "skills/va-database-optimizer",
+      "source": "categories/05-data-ai/database-optimizer.md",
+      "source_sha256": "3871a9853fce7bbf686fcec592a2770d91a9591c29fb4893e6f48760a6cf0e85"
+    },
+    {
+      "name": "va-llm-architect",
+      "source_name": "llm-architect",
+      "description": "Use when designing LLM systems for production, implementing fine-tuning or RAG architectures, optimizing inference serving infrastructure, or managing multi-model deployments.",
+      "category": "05-data-ai",
+      "path": "skills/va-llm-architect",
+      "source": "categories/05-data-ai/llm-architect.md",
+      "source_sha256": "5383c2541f792fe8a4a6398e0a5d5067b81018a1ed0069eaa228e4d7ef3cb364"
+    },
+    {
+      "name": "va-machine-learning-engineer",
+      "source_name": "machine-learning-engineer",
+      "description": "Use when you need to deploy, optimize, or serve machine learning models at scale in production environments.",
+      "category": "05-data-ai",
+      "path": "skills/va-machine-learning-engineer",
+      "source": "categories/05-data-ai/machine-learning-engineer.md",
+      "source_sha256": "3f3eb9348772484f53f295e8b74b803c3ea77cb2e52c6047c5d1ce1bda5a322f"
+    },
+    {
+      "name": "va-ml-engineer",
+      "source_name": "ml-engineer",
+      "description": "Use when building production ML systems requiring model training pipelines, model serving infrastructure, performance optimization, and automated retraining.",
+      "category": "05-data-ai",
+      "path": "skills/va-ml-engineer",
+      "source": "categories/05-data-ai/ml-engineer.md",
+      "source_sha256": "34ccb17b246576569298d65f438e76f62b61999248a435a6d2fcc898cee932eb"
+    },
+    {
+      "name": "va-mlops-engineer",
+      "source_name": "mlops-engineer",
+      "description": "Use when you need to design and implement ML infrastructure, set up CI/CD for machine learning models, establish model versioning systems, or optimize ML platforms for reliability and automation. Use this skill to build production-grade experiment tracking, implement automated training pipelines, configure GPU resource orchestration, and establish operational monitoring for ML systems.",
+      "category": "05-data-ai",
+      "path": "skills/va-mlops-engineer",
+      "source": "categories/05-data-ai/mlops-engineer.md",
+      "source_sha256": "dcd10b881c31f5609e4267b4e41b9b3bf8005f36a0bc7f92b0d59906364350ac"
+    },
+    {
+      "name": "va-nlp-engineer",
+      "source_name": "nlp-engineer",
+      "description": "Use when building production NLP systems, implementing text processing pipelines, developing language models, or solving domain-specific NLP tasks like named entity recognition, sentiment analysis, or machine translation.",
+      "category": "05-data-ai",
+      "path": "skills/va-nlp-engineer",
+      "source": "categories/05-data-ai/nlp-engineer.md",
+      "source_sha256": "2eb4f75904b4132ad92ebcfe4d755e956442015b9e99a8a0daf9bd0e70029721"
+    },
+    {
+      "name": "va-postgres-pro",
+      "source_name": "postgres-pro",
+      "description": "Use when you need to optimize PostgreSQL performance, design high-availability replication, or troubleshoot database issues at scale. Use this skill for query optimization, configuration tuning, replication setup, backup strategies, and mastering advanced PostgreSQL features for enterprise deployments.",
+      "category": "05-data-ai",
+      "path": "skills/va-postgres-pro",
+      "source": "categories/05-data-ai/postgres-pro.md",
+      "source_sha256": "968eb330cd63ddacff28249fd11b7e6f9ea280f20f033d909edae9778565f4fe"
+    },
+    {
+      "name": "va-prompt-engineer",
+      "source_name": "prompt-engineer",
+      "description": "Use when you need to design, optimize, test, or evaluate prompts for large language models in production systems.",
+      "category": "05-data-ai",
+      "path": "skills/va-prompt-engineer",
+      "source": "categories/05-data-ai/prompt-engineer.md",
+      "source_sha256": "a98c1b13f0a1b4ad7f6ac91d5f9c52b2f8d5947d0d34a933cb3077a4fad05009"
+    },
+    {
+      "name": "va-reinforcement-learning-engineer",
+      "source_name": "reinforcement-learning-engineer",
+      "description": "Use when designing RL environments, training agents with reward optimization, implementing policy gradient methods, or deploying decision-making systems for robotics, gaming, and autonomous operations.",
+      "category": "05-data-ai",
+      "path": "skills/va-reinforcement-learning-engineer",
+      "source": "categories/05-data-ai/reinforcement-learning-engineer.md",
+      "source_sha256": "bbef7a246a6e46a428f6c20282818d2183f9a6c7b3e433048e2922b9fc10d355"
+    },
+    {
+      "name": "va-build-engineer",
+      "source_name": "build-engineer",
+      "description": "Use when you need to optimize build performance, reduce compilation times, or scale build systems across growing teams.",
+      "category": "06-developer-experience",
+      "path": "skills/va-build-engineer",
+      "source": "categories/06-developer-experience/build-engineer.md",
+      "source_sha256": "7c9d01c5ee4947e86a701788248cdc2429e1e995d56086ae7af22368378801d9"
+    },
+    {
+      "name": "va-cli-developer",
+      "source_name": "cli-developer",
+      "description": "Use when building command-line tools and terminal applications that require intuitive command design, cross-platform compatibility, and optimized developer experience.",
+      "category": "06-developer-experience",
+      "path": "skills/va-cli-developer",
+      "source": "categories/06-developer-experience/cli-developer.md",
+      "source_sha256": "50039283bacd5d35b05596446e917337e111c1e8e6d90d7c5dfddbad7a2f38ca"
+    },
+    {
+      "name": "va-dependency-manager",
+      "source_name": "dependency-manager",
+      "description": "Use when you need to audit dependencies for vulnerabilities, resolve version conflicts, optimize bundle sizes, or implement automated dependency updates.",
+      "category": "06-developer-experience",
+      "path": "skills/va-dependency-manager",
+      "source": "categories/06-developer-experience/dependency-manager.md",
+      "source_sha256": "2bd6fa26a4e4fbf4bab5d8a4dab88c343ff2aa6beb7b6a477e4821f459fe14ea"
+    },
+    {
+      "name": "va-docs-drift-editor",
+      "source_name": "docs-drift-editor",
+      "description": "Use this agent to update Markdown documentation pages that have drifted out of sync with a code change, inside an isolated git worktree, without inventing commands, URLs, or features not present in the diff.",
+      "category": "06-developer-experience",
+      "path": "skills/va-docs-drift-editor",
+      "source": "categories/06-developer-experience/docs-drift-editor.md",
+      "source_sha256": "8313595fcd5ae73902a58d81887f0b209cf2ef7ee3785f005cb10b46e563a168"
+    },
+    {
+      "name": "va-documentation-engineer",
+      "source_name": "documentation-engineer",
+      "description": "Use when you need to create, architect, or overhaul comprehensive documentation systems including API docs, tutorials, guides, and developer-friendly content that keeps pace with code changes.",
+      "category": "06-developer-experience",
+      "path": "skills/va-documentation-engineer",
+      "source": "categories/06-developer-experience/documentation-engineer.md",
+      "source_sha256": "0c7dc92e14797c11604b74f1a748a9f76bcf2681753fe6311fe00392af7cb833"
+    },
+    {
+      "name": "va-dx-optimizer",
+      "source_name": "dx-optimizer",
+      "description": "Use when optimizing the complete developer workflow including build times, feedback loops, testing efficiency, and developer satisfaction metrics across the entire development environment.",
+      "category": "06-developer-experience",
+      "path": "skills/va-dx-optimizer",
+      "source": "categories/06-developer-experience/dx-optimizer.md",
+      "source_sha256": "02919bfababc9ac586582ac33ebe524f475e553a94de70dd096d694951a7d6b4"
+    },
+    {
+      "name": "va-git-workflow-manager",
+      "source_name": "git-workflow-manager",
+      "description": "Use when you need to design, establish, or optimize Git workflows, branching strategies, and merge management for a project or team.",
+      "category": "06-developer-experience",
+      "path": "skills/va-git-workflow-manager",
+      "source": "categories/06-developer-experience/git-workflow-manager.md",
+      "source_sha256": "78f0a3080c60e3b60db6e1804410b5a71121183976079fa9e2d4077fa254db6f"
+    },
+    {
+      "name": "va-legacy-modernizer",
+      "source_name": "legacy-modernizer",
+      "description": "Use when modernizing legacy systems that need incremental migration strategies, technical debt reduction, and risk mitigation while maintaining business continuity.",
+      "category": "06-developer-experience",
+      "path": "skills/va-legacy-modernizer",
+      "source": "categories/06-developer-experience/legacy-modernizer.md",
+      "source_sha256": "3ef099720abdb6076a7036de1de1a8882a71e2ebf601391cfc7ab3da046799a3"
+    },
+    {
+      "name": "va-mcp-developer",
+      "source_name": "mcp-developer",
+      "description": "Use when you need to build, debug, or optimize Model Context Protocol (MCP) servers and clients that connect AI systems to external tools and data sources.",
+      "category": "06-developer-experience",
+      "path": "skills/va-mcp-developer",
+      "source": "categories/06-developer-experience/mcp-developer.md",
+      "source_sha256": "7ab6fa1836094fda0a03ec819987909f58c60422414b0e44fd61e9454efc1b56"
+    },
+    {
+      "name": "va-powershell-module-architect",
+      "source_name": "powershell-module-architect",
+      "description": "Use when architecting and refactoring PowerShell modules, designing profile systems, or creating cross-version compatible automation libraries. Invoke it for module design reviews, profile optimization, packaging reusable code, and standardizing function structure across teams.",
+      "category": "06-developer-experience",
+      "path": "skills/va-powershell-module-architect",
+      "source": "categories/06-developer-experience/powershell-module-architect.md",
+      "source_sha256": "c302b56cfaf29eeed3b93c3cc94e8f745478f391d81f8fcd04aba8364cadb44b"
+    },
+    {
+      "name": "va-powershell-ui-architect",
+      "source_name": "powershell-ui-architect",
+      "description": "Use when designing or building desktop graphical interfaces (WinForms, WPF, Metro-style dashboards) or terminal user interfaces (TUIs) for PowerShell automation tools that need clean separation between UI and business logic.",
+      "category": "06-developer-experience",
+      "path": "skills/va-powershell-ui-architect",
+      "source": "categories/06-developer-experience/powershell-ui-architect.md",
+      "source_sha256": "f19d468c9ca14865d339ff15e1583bbfabe46ee6b3701f98d4a9abc2fb13f5f2"
+    },
+    {
+      "name": "va-readme-generator",
+      "source_name": "readme-generator",
+      "description": "Use when you need a maintainer-ready README built from exact repository reality, with deep codebase scanning, zero hallucination, and optional git commit/push only when explicitly requested.",
+      "category": "06-developer-experience",
+      "path": "skills/va-readme-generator",
+      "source": "categories/06-developer-experience/readme-generator.md",
+      "source_sha256": "c8e92f3f2f8565c7bbacdb0e84a0936414ed0154040a4da34a226b216be999ae"
+    },
+    {
+      "name": "va-refactoring-specialist",
+      "source_name": "refactoring-specialist",
+      "description": "Use when you need to transform poorly structured, complex, or duplicated code into clean, maintainable systems while preserving all existing behavior.",
+      "category": "06-developer-experience",
+      "path": "skills/va-refactoring-specialist",
+      "source": "categories/06-developer-experience/refactoring-specialist.md",
+      "source_sha256": "25f431ff0e8f6c219a0b1b60e46f226d82f26e29f286420dd8d11da80f802ff4"
+    },
+    {
+      "name": "va-slack-expert",
+      "source_name": "slack-expert",
+      "description": "Use when developing Slack applications, implementing Slack API integrations, or reviewing Slack bot code for security and best practices.",
+      "category": "06-developer-experience",
+      "path": "skills/va-slack-expert",
+      "source": "categories/06-developer-experience/slack-expert.md",
+      "source_sha256": "aa53ee110564b50186a84aab15bd6a667eb7b132956bf843c87b47562a0f375f"
+    },
+    {
+      "name": "va-tooling-engineer",
+      "source_name": "tooling-engineer",
+      "description": "Use when you need to build or enhance developer tools including CLIs, code generators, build tools, and IDE extensions.",
+      "category": "06-developer-experience",
+      "path": "skills/va-tooling-engineer",
+      "source": "categories/06-developer-experience/tooling-engineer.md",
+      "source_sha256": "99e5d54b89fce2b80e066e8bea75ae12f22210a7e32f23de7fa54a949fb58200"
+    },
+    {
+      "name": "va-visual-asset-generator",
+      "source_name": "visual-asset-generator",
+      "description": "Use when you need to generate production-ready visual assets for a project \u2014 app icons, favicons, OG images, logos, wordmarks, or social media images. Invokes the prompt-to-asset MCP server to route generation requests across 30+ image models.",
+      "category": "06-developer-experience",
+      "path": "skills/va-visual-asset-generator",
+      "source": "categories/06-developer-experience/visual-asset-generator.md",
+      "source_sha256": "c47bde19bbf61cc144e329842c1179b6484c80805f52598610151d488407a332"
+    },
+    {
+      "name": "va-api-documenter",
+      "source_name": "api-documenter",
+      "description": "Use when creating or improving API documentation, writing OpenAPI specifications, building interactive documentation portals, or generating code examples for APIs.",
+      "category": "07-specialized-domains",
+      "path": "skills/va-api-documenter",
+      "source": "categories/07-specialized-domains/api-documenter.md",
+      "source_sha256": "7644ec4a1b4515c1de1d6939447f3ea0a876ac83d85da4713bdc33628c11bb2f"
+    },
+    {
+      "name": "va-blockchain-developer",
+      "source_name": "blockchain-developer",
+      "description": "Use when building smart contracts, DApps, and blockchain protocols that require expertise in Solidity, gas optimization, security auditing, and Web3 integration.",
+      "category": "07-specialized-domains",
+      "path": "skills/va-blockchain-developer",
+      "source": "categories/07-specialized-domains/blockchain-developer.md",
+      "source_sha256": "63e0e8cde238b7584fe0b8b6eb64a7e4c160c1446e4c6ce7cd822aa1a9a49cda"
+    },
+    {
+      "name": "va-email-deliverability-engineer",
+      "source_name": "email-deliverability-engineer",
+      "description": "Use when configuring email authentication, integrating transactional or marketing email providers, diagnosing deliverability problems, or building compliant sending infrastructure.",
+      "category": "07-specialized-domains",
+      "path": "skills/va-email-deliverability-engineer",
+      "source": "categories/07-specialized-domains/email-deliverability-engineer.md",
+      "source_sha256": "a42df484243f220d5e653c2b2e77a6adf526bc8cdc797f3e375f86794b909b26"
+    },
+    {
+      "name": "va-embedded-systems",
+      "source_name": "embedded-systems",
+      "description": "Use when developing firmware for resource-constrained microcontrollers, implementing RTOS-based applications, or optimizing real-time systems where hardware constraints, latency guarantees, and reliability are critical.",
+      "category": "07-specialized-domains",
+      "path": "skills/va-embedded-systems",
+      "source": "categories/07-specialized-domains/embedded-systems.md",
+      "source_sha256": "6e8a2123f7b192dc44e37c73e6d3c562b31c6cf9e6c2c7bddacc8cd96f56b363"
+    },
+    {
+      "name": "va-fintech-engineer",
+      "source_name": "fintech-engineer",
+      "description": "Use when building payment systems, financial integrations, or compliance-heavy financial applications that require secure transaction processing, regulatory adherence, and high transaction accuracy.",
+      "category": "07-specialized-domains",
+      "path": "skills/va-fintech-engineer",
+      "source": "categories/07-specialized-domains/fintech-engineer.md",
+      "source_sha256": "fddccdf007328565db49633a6476fca2846a61c93f98ca7fbfb3c3635e14e56a"
+    },
+    {
+      "name": "va-game-developer",
+      "source_name": "game-developer",
+      "description": "Use when implementing game systems, optimizing graphics rendering, building multiplayer networking, or developing gameplay mechanics for games targeting specific platforms.",
+      "category": "07-specialized-domains",
+      "path": "skills/va-game-developer",
+      "source": "categories/07-specialized-domains/game-developer.md",
+      "source_sha256": "1a5ba534788034d036dc47133c2aacc393daee05af3a61a551fa16aef47b5c3d"
+    },
+    {
+      "name": "va-healthcare-admin",
+      "source_name": "healthcare-admin",
+      "description": "Use when working on healthcare administration tasks including revenue cycle management, HIPAA/compliance auditing, medical coding (ICD-10, CPT, DRGs), CMS cost reports, payer contract analysis, quality improvement, clinical operations, health IT/interoperability, population health, and pharmacy benefits.",
+      "category": "07-specialized-domains",
+      "path": "skills/va-healthcare-admin",
+      "source": "categories/07-specialized-domains/healthcare-admin.md",
+      "source_sha256": "2f59ae676494f94a1958ca0a2235765007f8f79cf3e98848519bbb4dffeb8552"
+    },
+    {
+      "name": "va-hipaa-compliance",
+      "source_name": "hipaa-compliance",
+      "description": "Use when the user is building a healthcare product and needs to understand HIPAA compliance.",
+      "category": "07-specialized-domains",
+      "path": "skills/va-hipaa-compliance",
+      "source": "categories/07-specialized-domains/hipaa-compliance.md",
+      "source_sha256": "935df7684d597399a2dc2d0d37e45135c0527b8a336b64b923dd9d333cac83dd"
+    },
+    {
+      "name": "va-iot-engineer",
+      "source_name": "iot-engineer",
+      "description": "Use when designing and deploying IoT solutions requiring expertise in device management, edge computing, cloud integration, and handling challenges like massive device scale, complex connectivity scenarios, or real-time data pipelines.",
+      "category": "07-specialized-domains",
+      "path": "skills/va-iot-engineer",
+      "source": "categories/07-specialized-domains/iot-engineer.md",
+      "source_sha256": "a614b8cfa393f52fefbd03b687125dbec70948fd638dbefa0f004d9c85b051cb"
+    },
+    {
+      "name": "va-m365-admin",
+      "source_name": "m365-admin",
+      "description": "Use when automating Microsoft 365 administrative tasks including Exchange Online mailbox provisioning, Teams collaboration management, SharePoint site configuration, license lifecycle management, and Graph API-driven identity automation.",
+      "category": "07-specialized-domains",
+      "path": "skills/va-m365-admin",
+      "source": "categories/07-specialized-domains/m365-admin.md",
+      "source_sha256": "b6623e288bb6a7c127f7f9049ef45f654f24d2ab8f9df1ac9e59f620923f2ee4"
+    },
+    {
+      "name": "va-mobile-app-developer",
+      "source_name": "mobile-app-developer",
+      "description": "Use when developing iOS and Android mobile applications with focus on native or cross-platform implementation, performance optimization, and platform-specific user experience.",
+      "category": "07-specialized-domains",
+      "path": "skills/va-mobile-app-developer",
+      "source": "categories/07-specialized-domains/mobile-app-developer.md",
+      "source_sha256": "8030e0fa945ec339002aac917368a9630c34cd8220b269ae6c3b303d14323831"
+    },
+    {
+      "name": "va-payment-integration",
+      "source_name": "payment-integration",
+      "description": "Use when implementing payment systems, integrating payment gateways, or handling financial transactions that require PCI compliance, fraud prevention, and secure transaction processing.",
+      "category": "07-specialized-domains",
+      "path": "skills/va-payment-integration",
+      "source": "categories/07-specialized-domains/payment-integration.md",
+      "source_sha256": "3fa4113f10e97e4e3e5772e481600cf2112382c8694f0648aeffe5ecd2473c5c"
+    },
+    {
+      "name": "va-quant-analyst",
+      "source_name": "quant-analyst",
+      "description": "Use when you need to develop quantitative trading strategies, build financial models with rigorous mathematical foundations, or conduct advanced risk analytics for derivatives and portfolios. Use this skill for statistical arbitrage strategy development, backtesting with historical validation, derivatives pricing models, and portfolio risk assessment.",
+      "category": "07-specialized-domains",
+      "path": "skills/va-quant-analyst",
+      "source": "categories/07-specialized-domains/quant-analyst.md",
+      "source_sha256": "c8c7d96c1940bb7ad8ff6183599e3b9640508ca77d73c293828a014990a5d9c4"
+    },
+    {
+      "name": "va-risk-manager",
+      "source_name": "risk-manager",
+      "description": "Use when you need to identify, quantify, and mitigate enterprise-level risks across financial, operational, regulatory, and strategic domains. Use this skill when you need to assess risk exposure, design control frameworks, validate risk models, or ensure regulatory compliance.",
+      "category": "07-specialized-domains",
+      "path": "skills/va-risk-manager",
+      "source": "categories/07-specialized-domains/risk-manager.md",
+      "source_sha256": "0931be36adc373b1bbed3a49ba78a0f2a7986e4a574ff8253e1677ed56279f9e"
+    },
+    {
+      "name": "va-seo-specialist",
+      "source_name": "seo-specialist",
+      "description": "Use when you need comprehensive SEO optimization encompassing technical audits, keyword strategy, content optimization, and search rankings improvement.",
+      "category": "07-specialized-domains",
+      "path": "skills/va-seo-specialist",
+      "source": "categories/07-specialized-domains/seo-specialist.md",
+      "source_sha256": "c437cdbe91670201e109044bce4e40cc3b088dda93e281c3108805d1262a6785"
+    },
+    {
+      "name": "va-x-api-integration",
+      "source_name": "x-api-integration",
+      "description": "Use when building X/Twitter data products, integrating X API alternatives, designing tweet search workflows, or documenting social data API usage.",
+      "category": "07-specialized-domains",
+      "path": "skills/va-x-api-integration",
+      "source": "categories/07-specialized-domains/x-api-integration.md",
+      "source_sha256": "da87023d17c3b8290e353a8a409cfe586cf0b519ef547ec912a4aa8897796580"
+    },
+    {
+      "name": "va-assumption-mapping",
+      "source_name": "assumption-mapping",
+      "description": "Use when the user needs to identify and prioritize risky assumptions in a product idea, feature, or strategy.",
+      "category": "08-business-product",
+      "path": "skills/va-assumption-mapping",
+      "source": "categories/08-business-product/assumption-mapping.md",
+      "source_sha256": "6421d4b2f20e33b1fcb534223c8fd18972ef45c9bb3e906512983c663d2ebcae"
+    },
+    {
+      "name": "va-backlog-grooming",
+      "source_name": "backlog-grooming",
+      "description": "Use when the user needs to groom, refine, or clean up a product backlog.",
+      "category": "08-business-product",
+      "path": "skills/va-backlog-grooming",
+      "source": "categories/08-business-product/backlog-grooming.md",
+      "source_sha256": "fc9e122ec9fd0a0635d3d45db92bb527343a2eb1bdb982a633809e96122117c3"
+    },
+    {
+      "name": "va-business-analyst",
+      "source_name": "business-analyst",
+      "description": "Use when analyzing business processes, gathering requirements from stakeholders, or identifying process improvement opportunities to drive operational efficiency and measurable business value.",
+      "category": "08-business-product",
+      "path": "skills/va-business-analyst",
+      "source": "categories/08-business-product/business-analyst.md",
+      "source_sha256": "d7aa88028703b5029118537a56f5f529535558d1d594603289dfb618bd63ed3f"
+    },
+    {
+      "name": "va-content-marketer",
+      "source_name": "content-marketer",
+      "description": "Use when you need to develop comprehensive content strategies, create SEO-optimized marketing content, or execute multi-channel content campaigns to drive engagement and conversions. Use this skill for content planning, content creation, audience analysis, and measuring content ROI.",
+      "category": "08-business-product",
+      "path": "skills/va-content-marketer",
+      "source": "categories/08-business-product/content-marketer.md",
+      "source_sha256": "273ecf93e9cef485011a9908db07dedbf51bf7a2cd509e1973490464ac9ec9f6"
+    },
+    {
+      "name": "va-content-quality-editor",
+      "source_name": "content-quality-editor",
+      "description": "Edit requested prose for clarity, precision, tone, and unnecessary AI-style phrasing. Use when the user asks for editorial review or rewriting.",
+      "category": "08-business-product",
+      "path": "skills/va-content-quality-editor",
+      "source": "categories/08-business-product/content-quality-editor.md",
+      "source_sha256": "10eb9fe771d5b6de315baa1cb25b129c8d6ba58bb28ed6a1b4496817259efc1f"
+    },
+    {
+      "name": "va-customer-success-manager",
+      "source_name": "customer-success-manager",
+      "description": "Use when you need to assess customer health, develop retention strategies, identify upsell opportunities, or maximize customer lifetime value. Use this skill for account health analysis, churn prevention, product adoption optimization, and customer success planning.",
+      "category": "08-business-product",
+      "path": "skills/va-customer-success-manager",
+      "source": "categories/08-business-product/customer-success-manager.md",
+      "source_sha256": "d37cbaed5c9e77394389d96bc16e1598036676fa588497b957aeae8e3b5ec759"
+    },
+    {
+      "name": "va-growth-loops",
+      "source_name": "growth-loops",
+      "description": "Use when the user wants to design a growth loop, understand PLG mechanics, or build sustainable acquisition.",
+      "category": "08-business-product",
+      "path": "skills/va-growth-loops",
+      "source": "categories/08-business-product/growth-loops.md",
+      "source_sha256": "40a85b8bbd00800510aa1c0b6864595fc5f2894cf76901bd7e8fcc5c90f5081d"
+    },
+    {
+      "name": "va-landing-page-copywriter",
+      "source_name": "landing-page-copywriter",
+      "description": "Use when writing or optimizing landing page copy, hero sections, CTAs, or conversion-focused funnel content for a specific audience and offer.",
+      "category": "08-business-product",
+      "path": "skills/va-landing-page-copywriter",
+      "source": "categories/08-business-product/landing-page-copywriter.md",
+      "source_sha256": "38979920528bc633f63e10d01254c4446e5e06e6a55935eda335523d61d47ae8"
+    },
+    {
+      "name": "va-legal-advisor",
+      "source_name": "legal-advisor",
+      "description": "Use when you need to draft contracts, review compliance requirements, develop IP protection strategies, or assess legal risks for technology businesses.",
+      "category": "08-business-product",
+      "path": "skills/va-legal-advisor",
+      "source": "categories/08-business-product/legal-advisor.md",
+      "source_sha256": "d7e34fabac4c24ae22948de53e01b3a7e53067bfb41dec8c6bd844e6b2722bcf"
+    },
+    {
+      "name": "va-license-engineer",
+      "source_name": "license-engineer",
+      "description": "Use when architecting, implementing, or optimizing end-to-end legal licensing systems\u2014from OSI standard selection and dependency compliance pipelines to proprietary deployment and risk monitoring.",
+      "category": "08-business-product",
+      "path": "skills/va-license-engineer",
+      "source": "categories/08-business-product/license-engineer.md",
+      "source_sha256": "5afad0cfcfd9bf9f40f2bc7079c08c861930c755551ba7cd27e851e648fea7e3"
+    },
+    {
+      "name": "va-product-manager",
+      "source_name": "product-manager",
+      "description": "Use when you need to make product strategy decisions, prioritize features, or define roadmap plans based on user needs and business goals.",
+      "category": "08-business-product",
+      "path": "skills/va-product-manager",
+      "source": "categories/08-business-product/product-manager.md",
+      "source_sha256": "88977cfebc36a245a762806bcc2d5f9b067553680c11d37de5f674920f2de3ca"
+    },
+    {
+      "name": "va-project-manager",
+      "source_name": "project-manager",
+      "description": "Use when you need to establish project plans, track execution progress, manage risks, control budget/schedule, and coordinate stakeholders across complex initiatives.",
+      "category": "08-business-product",
+      "path": "skills/va-project-manager",
+      "source": "categories/08-business-product/project-manager.md",
+      "source_sha256": "dcba1095b8ca7f5a09aaf106637ab021da5639a6aee0ab73756ac37ec37be3f4"
+    },
+    {
+      "name": "va-sales-engineer",
+      "source_name": "sales-engineer",
+      "description": "Use when you need to conduct technical pre-sales activities including solution architecture, proof-of-concept development, and technical demonstrations for complex sales deals.",
+      "category": "08-business-product",
+      "path": "skills/va-sales-engineer",
+      "source": "categories/08-business-product/sales-engineer.md",
+      "source_sha256": "0fdae9f694d271f96a411e92a4f291ebea0a0c592b14d7bc5f31cd9aae1b4f71"
+    },
+    {
+      "name": "va-scrum-master",
+      "source_name": "scrum-master",
+      "description": "Use when teams need facilitation, process optimization, velocity improvement, or agile ceremony management\u2014especially for sprint planning, retrospectives, impediment removal, and scaling agile practices across multiple teams.",
+      "category": "08-business-product",
+      "path": "skills/va-scrum-master",
+      "source": "categories/08-business-product/scrum-master.md",
+      "source_sha256": "3d01b0d355b7532ac08d0884cadc3d5346c01b6c937a4a5a537ffd944b2fe0da"
+    },
+    {
+      "name": "va-technical-writer",
+      "source_name": "technical-writer",
+      "description": "Use when you need to create, improve, or maintain technical documentation including API references, user guides, SDK documentation, and getting-started guides.",
+      "category": "08-business-product",
+      "path": "skills/va-technical-writer",
+      "source": "categories/08-business-product/technical-writer.md",
+      "source_sha256": "d28732710cb06865f265a4b2a01c3ea04fbc0e269bd2330dd37a692cb7c1ae6c"
+    },
+    {
+      "name": "va-ux-researcher",
+      "source_name": "ux-researcher",
+      "description": "Use when you need to conduct user research, analyze user behavior, or generate actionable insights to validate design decisions and uncover user needs. Invoke when you need usability testing, user interviews, survey design, analytics interpretation, persona development, or competitive research to inform product strategy.",
+      "category": "08-business-product",
+      "path": "skills/va-ux-researcher",
+      "source": "categories/08-business-product/ux-researcher.md",
+      "source_sha256": "09643537d6d9f9888d81afe693b4ab731c8b7f3c4f7ae896f3f1afa95a31dd2d"
+    },
+    {
+      "name": "va-wordpress-master",
+      "source_name": "wordpress-master",
+      "description": "Use when you need to architect, optimize, or troubleshoot WordPress implementations ranging from custom theme/plugin development to enterprise-scale multisite platforms. Use this skill for performance optimization, security hardening, headless WordPress APIs, WooCommerce solutions, and scaling WordPress to handle millions of visitors.",
+      "category": "08-business-product",
+      "path": "skills/va-wordpress-master",
+      "source": "categories/08-business-product/wordpress-master.md",
+      "source_sha256": "ba940576cba1cd9e624b9c5a593acd4fa87b3ac475ee44271abe05fbb0dee928"
+    },
+    {
+      "name": "va-skill-catalog",
+      "source_name": "agent-installer",
+      "description": "Browse, search, install, and uninstall the Codex skills in this collection. Use for managing this catalog, not for creating a skill or configuring an agent runtime.",
+      "category": "09-meta-orchestration",
+      "path": "skills/va-skill-catalog",
+      "source": "categories/09-meta-orchestration/agent-installer.md",
+      "source_sha256": "2fc0554b2a37c10e0ff06a065bf2eac665f41953de637ae004a6520af4e58648"
+    },
+    {
+      "name": "va-agent-organizer",
+      "source_name": "agent-organizer",
+      "description": "Break an explicitly requested coordinated task into bounded subtasks matched to available capabilities, with ownership, dependencies, and a concrete execution order.",
+      "category": "09-meta-orchestration",
+      "path": "skills/va-agent-organizer",
+      "source": "categories/09-meta-orchestration/agent-organizer.md",
+      "source_sha256": "f687c49cd6f48867a4726cf3ebfd28b4a5c73bed439c681ee6bfa1d37036bd68"
+    },
+    {
+      "name": "va-codebase-orchestrator",
+      "source_name": "codebase-orchestrator",
+      "description": "Coordinate a requested repository-wide refactor by mapping dependencies, prioritizing concrete risks, and sequencing changes through the repository's actual interfaces.",
+      "category": "09-meta-orchestration",
+      "path": "skills/va-codebase-orchestrator",
+      "source": "categories/09-meta-orchestration/codebase-orchestrator.md",
+      "source_sha256": "a5729953f1eda64c4369cb8673efd99a4d89432815862d1b20e5ada2467587bc"
+    },
+    {
+      "name": "va-context-manager",
+      "source_name": "context-manager",
+      "description": "Organize context and shared state for an existing workflow, including provenance, naming, ownership, handoffs, and recovery after interruption.",
+      "category": "09-meta-orchestration",
+      "path": "skills/va-context-manager",
+      "source": "categories/09-meta-orchestration/context-manager.md",
+      "source_sha256": "28d1d3052b14fea34a7296740bbc4d7a3a260ec2a2bd1c92b4d6f875bfc5112a"
+    },
+    {
+      "name": "va-error-coordinator",
+      "source_name": "error-coordinator",
+      "description": "Analyze recurring failures and cascades across supplied logs or worker outputs, and derive evidence-based recovery and failure-propagation rules.",
+      "category": "09-meta-orchestration",
+      "path": "skills/va-error-coordinator",
+      "source": "categories/09-meta-orchestration/error-coordinator.md",
+      "source_sha256": "e106ff0bf4408c9cfd912debbf28e108e13d35e3284673e98152a4c958acec6d"
+    },
+    {
+      "name": "va-it-ops-orchestrator",
+      "source_name": "it-ops-orchestrator",
+      "description": "Coordinate IT operations spanning PowerShell, Windows infrastructure, Azure, Microsoft 365, and security using the available tools and authorized target environment.",
+      "category": "09-meta-orchestration",
+      "path": "skills/va-it-ops-orchestrator",
+      "source": "categories/09-meta-orchestration/it-ops-orchestrator.md",
+      "source_sha256": "aa310a368290acbf0c8e42cb4031753a3e4a5f0656300b842385d3f883834297"
+    },
+    {
+      "name": "va-knowledge-synthesizer",
+      "source_name": "knowledge-synthesizer",
+      "description": "Extract recurring lessons and contradictions from supplied logs, transcripts, or workflow history, with traceable evidence and clearly bounded conclusions.",
+      "category": "09-meta-orchestration",
+      "path": "skills/va-knowledge-synthesizer",
+      "source": "categories/09-meta-orchestration/knowledge-synthesizer.md",
+      "source_sha256": "da28a65e1dc0306b923854900df26307d48a0ae213cc3cb3f63f7bc989b9e309"
+    },
+    {
+      "name": "va-multi-agent-coordinator",
+      "source_name": "multi-agent-coordinator",
+      "description": "Plan or carry out authorized coordination of multiple workers with explicit sequencing, file ownership, handoffs, and failure handling.",
+      "category": "09-meta-orchestration",
+      "path": "skills/va-multi-agent-coordinator",
+      "source": "categories/09-meta-orchestration/multi-agent-coordinator.md",
+      "source_sha256": "ed068a6d5200978a4f96f211b94ab7fd16908706296746a06e07409c09bbb532"
+    },
+    {
+      "name": "va-performance-monitor",
+      "source_name": "performance-monitor",
+      "description": "Analyze supplied metrics, logs, or profiles for performance patterns and anomalies, and specify measurements needed to explain the observed behavior.",
+      "category": "09-meta-orchestration",
+      "path": "skills/va-performance-monitor",
+      "source": "categories/09-meta-orchestration/performance-monitor.md",
+      "source_sha256": "51083411d328d1b5d650a1ce6889202c3ac803266c297ca9a091b83c2a5e74f9"
+    },
+    {
+      "name": "va-task-distributor",
+      "source_name": "task-distributor",
+      "description": "Design a task assignment strategy for actual workers with dependencies, priorities, capacity limits, ownership, and recovery behavior.",
+      "category": "09-meta-orchestration",
+      "path": "skills/va-task-distributor",
+      "source": "categories/09-meta-orchestration/task-distributor.md",
+      "source_sha256": "f3c3c4e8722240f93ccff841116ddaf9abbf50672fc1df58ae134d6d04e48f92"
+    },
+    {
+      "name": "va-workflow-orchestrator",
+      "source_name": "workflow-orchestrator",
+      "description": "Design or implement a requested workflow or state machine with explicit transitions, dependency ordering, failure handling, and compensation behavior.",
+      "category": "09-meta-orchestration",
+      "path": "skills/va-workflow-orchestrator",
+      "source": "categories/09-meta-orchestration/workflow-orchestrator.md",
+      "source_sha256": "a16503ee948611597be642f6228ecb149de743b37c7e29e526c45cba0062b57d"
+    },
+    {
+      "name": "va-ab-test-analysis",
+      "source_name": "ab-test-analysis",
+      "description": "Use when the user wants to analyze A/B test results, interpret p-values, determine statistical significance, or make a ship/no-ship decision.",
+      "category": "10-research-analysis",
+      "path": "skills/va-ab-test-analysis",
+      "source": "categories/10-research-analysis/ab-test-analysis.md",
+      "source_sha256": "94dede939cb87cf839b6bdf5298650c7066290c3f11814ab54e55c7e15ac69d8"
+    },
+    {
+      "name": "va-cohort-analysis",
+      "source_name": "cohort-analysis",
+      "description": "Use when the user wants to analyze retention, cohort behavior, engagement trends, or understand how different user groups perform over time.",
+      "category": "10-research-analysis",
+      "path": "skills/va-cohort-analysis",
+      "source": "categories/10-research-analysis/cohort-analysis.md",
+      "source_sha256": "a68049f299e7f481831b24ce17a0a3cff0d47340a8ac624ac8933bbac65474d0"
+    },
+    {
+      "name": "va-competitive-analyst",
+      "source_name": "competitive-analyst",
+      "description": "Use when you need to analyze direct and indirect competitors, benchmark against market leaders, or develop strategies to strengthen competitive positioning and market advantage.",
+      "category": "10-research-analysis",
+      "path": "skills/va-competitive-analyst",
+      "source": "categories/10-research-analysis/competitive-analyst.md",
+      "source_sha256": "6cd3f3d1b46b90578c694b479bba77ea2e3cdb0d78c2ab27cf1bb2ef0aa1c0c0"
+    },
+    {
+      "name": "va-data-researcher",
+      "source_name": "data-researcher",
+      "description": "Use when you need to discover, collect, and validate data from multiple sources to fuel analysis and decision-making. Use this skill for identifying data sources, gathering raw datasets, performing quality checks, and preparing data for downstream analysis or modeling.",
+      "category": "10-research-analysis",
+      "path": "skills/va-data-researcher",
+      "source": "categories/10-research-analysis/data-researcher.md",
+      "source_sha256": "de0381dfca455934361cc6fa397081970e841d5deb346dc19ac11802d8dbaefe"
+    },
+    {
+      "name": "va-first-principles-thinking",
+      "source_name": "first-principles-thinking",
+      "description": "Use when the user wants to challenge assumptions, break down a complex problem from scratch, or approach something with first principles reasoning.",
+      "category": "10-research-analysis",
+      "path": "skills/va-first-principles-thinking",
+      "source": "categories/10-research-analysis/first-principles-thinking.md",
+      "source_sha256": "955b2931153c15b05d383e85cc39a4df73ff806b1d88196306aa739abd503ed8"
+    },
+    {
+      "name": "va-market-researcher",
+      "source_name": "market-researcher",
+      "description": "Use when you need to analyze markets, understand consumer behavior, assess competitive landscapes, and size opportunities to inform business strategy and market entry decisions.",
+      "category": "10-research-analysis",
+      "path": "skills/va-market-researcher",
+      "source": "categories/10-research-analysis/market-researcher.md",
+      "source_sha256": "5ee6d345b5a8b705e5da1f0696702536c75a87fedcbcab77faa18e3cf491772e"
+    },
+    {
+      "name": "va-project-idea-validator",
+      "source_name": "project-idea-validator",
+      "description": "Use when you need an idea pressure-tested with brutal honesty, competitor teardown, market validation, and clear go/no-go guidance before building.",
+      "category": "10-research-analysis",
+      "path": "skills/va-project-idea-validator",
+      "source": "categories/10-research-analysis/project-idea-validator.md",
+      "source_sha256": "b71305b01782d53fa76117f8bf3df0c5c4648098297964afdf78f1a74d67d6b2"
+    },
+    {
+      "name": "va-research-analyst",
+      "source_name": "research-analyst",
+      "description": "Use when you need comprehensive research across multiple sources with synthesis of findings into actionable insights, trend identification, and detailed reporting.",
+      "category": "10-research-analysis",
+      "path": "skills/va-research-analyst",
+      "source": "categories/10-research-analysis/research-analyst.md",
+      "source_sha256": "027369ebe4e23962c514ffc5d284d482f0b346cc2965315a9075e513ad4562a5"
+    },
+    {
+      "name": "va-scientific-literature-researcher",
+      "source_name": "scientific-literature-researcher",
+      "description": "Search scientific literature and synthesize experimental evidence from published studies, including methods, sample sizes, results, limitations, and source attribution.",
+      "category": "10-research-analysis",
+      "path": "skills/va-scientific-literature-researcher",
+      "source": "categories/10-research-analysis/scientific-literature-researcher.md",
+      "source_sha256": "84c2657b9715a207494fd084e80fb80fc4c066e64b0c856fd95bfbb93a7295d7"
+    },
+    {
+      "name": "va-search-specialist",
+      "source_name": "search-specialist",
+      "description": "Use when you need to find specific information across multiple sources using advanced search strategies, query optimization, and targeted information retrieval. Use this skill when the priority is locating precise, relevant results efficiently rather than analyzing or synthesizing content.",
+      "category": "10-research-analysis",
+      "path": "skills/va-search-specialist",
+      "source": "categories/10-research-analysis/search-specialist.md",
+      "source_sha256": "4ea373635ba9045d03b02b900b3afc97ce9cefaf6dc8b07c11054643da01506d"
+    },
+    {
+      "name": "va-trend-analyst",
+      "source_name": "trend-analyst",
+      "description": "Use when analyzing emerging patterns, predicting industry shifts, or developing future scenarios to inform strategic planning and competitive positioning.",
+      "category": "10-research-analysis",
+      "path": "skills/va-trend-analyst",
+      "source": "categories/10-research-analysis/trend-analyst.md",
+      "source_sha256": "1092503308f9ec32fff236d0c451726cf15059fec171112780fc6244b6f2201d"
+    }
+  ]
+}

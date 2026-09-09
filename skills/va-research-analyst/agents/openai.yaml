@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Analyst"
+  short_description: "Research Analyst: specialized Codex guidance"
+  default_prompt: "Use $va-research-analyst to help with the following task."

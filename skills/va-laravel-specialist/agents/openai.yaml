@@ -1,0 +1,4 @@
+interface:
+  display_name: "Laravel Specialist"
+  short_description: "Laravel Specialist: specialized Codex guidance"
+  default_prompt: "Use $va-laravel-specialist to help with the following task."

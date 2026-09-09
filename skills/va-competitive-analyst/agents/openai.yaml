@@ -1,0 +1,4 @@
+interface:
+  display_name: "Competitive Analyst"
+  short_description: "Competitive Analyst: specialized Codex guidance"
+  default_prompt: "Use $va-competitive-analyst to help with the following task."

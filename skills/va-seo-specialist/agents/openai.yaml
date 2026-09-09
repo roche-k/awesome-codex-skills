@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seo Specialist"
+  short_description: "Seo Specialist: specialized Codex guidance"
+  default_prompt: "Use $va-seo-specialist to help with the following task."

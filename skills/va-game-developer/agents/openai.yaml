@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game Developer"
+  short_description: "Game Developer: specialized Codex guidance"
+  default_prompt: "Use $va-game-developer to help with the following task."

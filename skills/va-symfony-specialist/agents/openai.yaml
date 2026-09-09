@@ -1,0 +1,4 @@
+interface:
+  display_name: "Symfony Specialist"
+  short_description: "Symfony Specialist: specialized Codex guidance"
+  default_prompt: "Use $va-symfony-specialist to help with the following task."

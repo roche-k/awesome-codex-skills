@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kotlin Specialist"
+  short_description: "Kotlin Specialist: specialized Codex guidance"
+  default_prompt: "Use $va-kotlin-specialist to help with the following task."

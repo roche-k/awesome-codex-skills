@@ -1,0 +1,4 @@
+interface:
+  display_name: "Performance Monitor"
+  short_description: "Performance Monitor: specialized Codex guidance"
+  default_prompt: "Use $va-performance-monitor to help with the following task."

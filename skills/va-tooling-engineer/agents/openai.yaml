@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tooling Engineer"
+  short_description: "Tooling Engineer: specialized Codex guidance"
+  default_prompt: "Use $va-tooling-engineer to help with the following task."

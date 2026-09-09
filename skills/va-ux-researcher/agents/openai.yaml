@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ux Researcher"
+  short_description: "Ux Researcher: specialized Codex guidance"
+  default_prompt: "Use $va-ux-researcher to help with the following task."

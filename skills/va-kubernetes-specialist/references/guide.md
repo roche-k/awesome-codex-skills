@@ -1,0 +1,234 @@
+# Domain guide
+
+Apply the relevant sections to the actual request. This adapted source is
+a menu of domain considerations, not a requirement to perform every item.
+Source version numbers and numeric targets are historical examples; use the
+project's real versions and agreed acceptance criteria. Check current primary
+documentation before relying on external APIs, standards, or provider behavior.
+Tool labels describe operations and do not grant unavailable tools or services.
+
+Kubernetes mastery checklist:
+- CIS Kubernetes Benchmark compliance verified
+- Cluster uptime 99.95% achieved
+- Pod startup time < 30s optimized
+- Resource utilization > 70% maintained
+- Security policies enforced comprehensively
+- RBAC properly configured throughout
+- Network policies implemented effectively
+- Disaster recovery tested regularly
+
+Cluster architecture:
+- Control plane design
+- Multi-master setup
+- etcd configuration
+- Network topology
+- Storage architecture
+- Node pools
+- Availability zones
+- Upgrade strategies
+
+Workload orchestration:
+- Deployment strategies
+- StatefulSet management
+- Job orchestration
+- CronJob scheduling
+- DaemonSet configuration
+- Pod design patterns
+- Init containers
+- Sidecar patterns
+
+Resource management:
+- Resource quotas
+- Limit ranges
+- Pod disruption budgets
+- Horizontal pod autoscaling
+- Vertical pod autoscaling
+- Cluster autoscaling
+- Node affinity
+- Pod priority
+
+Networking:
+- CNI selection
+- Service types
+- Ingress controllers
+- Network policies
+- Service mesh integration
+- Load balancing
+- DNS configuration
+- Multi-cluster networking
+
+Storage orchestration:
+- Storage classes
+- Persistent volumes
+- Dynamic provisioning
+- Volume snapshots
+- CSI drivers
+- Backup strategies
+- Data migration
+- Performance tuning
+
+Security hardening:
+- Pod security standards
+- RBAC configuration
+- Service accounts
+- Security contexts
+- Network policies
+- Admission controllers
+- OPA policies
+- Image scanning
+
+Observability:
+- Metrics collection
+- Log aggregation
+- Distributed tracing
+- Event monitoring
+- Cluster monitoring
+- Application monitoring
+- Cost tracking
+- Capacity planning
+
+Multi-tenancy:
+- Namespace isolation
+- Resource segregation
+- Network segmentation
+- RBAC per tenant
+- Resource quotas
+- Policy enforcement
+- Cost allocation
+- Audit logging
+
+Service mesh:
+- Istio implementation
+- Linkerd deployment
+- Traffic management
+- Security policies
+- Observability
+- Circuit breaking
+- Retry policies
+- A/B testing
+
+GitOps workflows:
+- ArgoCD setup
+- Flux configuration
+- Helm charts
+- Kustomize overlays
+- Environment promotion
+- Rollback procedures
+- Secret management
+- Multi-cluster sync
+
+## Development Workflow
+
+Execute Kubernetes specialization through systematic phases:
+
+### 1. Cluster Analysis
+
+Understand current state and requirements.
+
+Analysis priorities:
+- Cluster inventory
+- Workload assessment
+- Performance baseline
+- Security audit
+- Resource utilization
+- Network topology
+- Storage assessment
+- Operational gaps
+
+Technical evaluation:
+- Review cluster configuration
+- Analyze workload patterns
+- Check security posture
+- Assess resource usage
+- Review networking setup
+- Evaluate storage strategy
+- Monitor performance metrics
+- Document improvement areas
+
+### 2. Implementation Phase
+
+Deploy and optimize Kubernetes infrastructure.
+
+Implementation approach:
+- Design cluster architecture
+- Implement security hardening
+- Deploy workloads
+- Configure networking
+- Setup storage
+- Enable monitoring
+- Automate operations
+- Document procedures
+
+Kubernetes patterns:
+- Design for failure
+- Implement least privilege
+- Use declarative configs
+- Enable auto-scaling
+- Monitor everything
+- Automate operations
+- Version control configs
+- Test disaster recovery
+
+### 3. Kubernetes Excellence
+
+Achieve production-grade Kubernetes operations.
+
+Excellence checklist:
+- Security hardened
+- Performance optimized
+- High availability configured
+- Monitoring comprehensive
+- Automation complete
+- Documentation current
+- Team trained
+- Compliance verified
+
+Production patterns:
+- Blue-green deployments
+- Canary releases
+- Rolling updates
+- Circuit breakers
+- Health checks
+- Readiness probes
+- Graceful shutdown
+- Resource limits
+
+Troubleshooting:
+- Pod failures
+- Network issues
+- Storage problems
+- Performance bottlenecks
+- Security violations
+- Resource constraints
+- Cluster upgrades
+- Application errors
+
+Advanced features:
+- Custom resources
+- Operator development
+- Admission webhooks
+- Custom schedulers
+- Device plugins
+- Runtime classes
+- Pod security policies
+- Cluster federation
+
+Cost optimization:
+- Resource right-sizing
+- Spot instance usage
+- Cluster autoscaling
+- Namespace quotas
+- Idle resource cleanup
+- Storage optimization
+- Network efficiency
+- Monitoring overhead
+
+Best practices:
+- Immutable infrastructure
+- GitOps workflows
+- Progressive delivery
+- Observability-driven
+- Security by default
+- Cost awareness
+- Documentation first
+- Automation everywhere

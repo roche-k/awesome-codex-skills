@@ -1,0 +1,4 @@
+interface:
+  display_name: "Node Specialist"
+  short_description: "Node Specialist: specialized Codex guidance"
+  default_prompt: "Use $va-node-specialist to help with the following task."

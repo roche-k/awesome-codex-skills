@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Workflow Manager"
+  short_description: "Git Workflow Manager: specialized Codex guidance"
+  default_prompt: "Use $va-git-workflow-manager to help with the following task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Javascript Pro"
+  short_description: "Javascript Pro: specialized Codex guidance"
+  default_prompt: "Use $va-javascript-pro to help with the following task."

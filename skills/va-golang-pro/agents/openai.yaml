@@ -1,0 +1,4 @@
+interface:
+  display_name: "Golang Pro"
+  short_description: "Golang Pro: specialized Codex guidance"
+  default_prompt: "Use $va-golang-pro to help with the following task."

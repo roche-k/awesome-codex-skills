@@ -1,0 +1,4 @@
+interface:
+  display_name: "Search Specialist"
+  short_description: "Search Specialist: specialized Codex guidance"
+  default_prompt: "Use $va-search-specialist to help with the following task."

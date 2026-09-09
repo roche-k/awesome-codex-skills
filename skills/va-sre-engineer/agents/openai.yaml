@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sre Engineer"
+  short_description: "Sre Engineer: specialized Codex guidance"
+  default_prompt: "Use $va-sre-engineer to help with the following task."

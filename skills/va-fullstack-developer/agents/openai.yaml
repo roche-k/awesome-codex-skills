@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fullstack Developer"
+  short_description: "Fullstack Developer: specialized Codex guidance"
+  default_prompt: "Use $va-fullstack-developer to help with the following task."

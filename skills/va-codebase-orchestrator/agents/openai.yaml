@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codebase Orchestrator"
+  short_description: "Codebase Orchestrator: specialized Codex guidance"
+  default_prompt: "Use $va-codebase-orchestrator to help with the following task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Powershell Module Architect"
+  short_description: "Powershell Module Architect: specialized Codex guidance"
+  default_prompt: "Use $va-powershell-module-architect to help with the following task."

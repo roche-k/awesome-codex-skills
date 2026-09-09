@@ -1,0 +1,4 @@
+interface:
+  display_name: "Backend Developer"
+  short_description: "Backend Developer: specialized Codex guidance"
+  default_prompt: "Use $va-backend-developer to help with the following task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ui Ux Tester"
+  short_description: "Ui Ux Tester: specialized Codex guidance"
+  default_prompt: "Use $va-ui-ux-tester to help with the following task."

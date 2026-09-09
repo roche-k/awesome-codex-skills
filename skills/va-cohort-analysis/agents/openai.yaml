@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cohort Analysis"
+  short_description: "Cohort Analysis: specialized Codex guidance"
+  default_prompt: "Use $va-cohort-analysis to help with the following task."

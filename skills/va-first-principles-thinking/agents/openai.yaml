@@ -1,0 +1,4 @@
+interface:
+  display_name: "First Principles Thinking"
+  short_description: "First Principles Thinking: specialized Codex guidance"
+  default_prompt: "Use $va-first-principles-thinking to help with the following task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Windows Infra Admin"
+  short_description: "Windows Infra Admin: specialized Codex guidance"
+  default_prompt: "Use $va-windows-infra-admin to help with the following task."

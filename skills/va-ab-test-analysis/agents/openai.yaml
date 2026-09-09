@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ab Test Analysis"
+  short_description: "Ab Test Analysis: specialized Codex guidance"
+  default_prompt: "Use $va-ab-test-analysis to help with the following task."

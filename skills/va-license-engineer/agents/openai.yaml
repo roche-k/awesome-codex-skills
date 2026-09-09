@@ -1,0 +1,4 @@
+interface:
+  display_name: "License Engineer"
+  short_description: "License Engineer: specialized Codex guidance"
+  default_prompt: "Use $va-license-engineer to help with the following task."

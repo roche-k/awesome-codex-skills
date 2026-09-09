@@ -1,0 +1,4 @@
+interface:
+  display_name: "Architect Reviewer"
+  short_description: "Architect Reviewer: specialized Codex guidance"
+  default_prompt: "Use $va-architect-reviewer to help with the following task."

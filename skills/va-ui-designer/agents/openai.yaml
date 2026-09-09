@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ui Designer"
+  short_description: "Ui Designer: specialized Codex guidance"
+  default_prompt: "Use $va-ui-designer to help with the following task."

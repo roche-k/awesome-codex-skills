@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build Engineer"
+  short_description: "Build Engineer: specialized Codex guidance"
+  default_prompt: "Use $va-build-engineer to help with the following task."

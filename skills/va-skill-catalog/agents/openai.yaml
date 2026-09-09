@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Catalog"
+  short_description: "Skill Catalog: specialized Codex guidance"
+  default_prompt: "Use $va-skill-catalog to help with the following task."

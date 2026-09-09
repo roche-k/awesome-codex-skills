@@ -1,0 +1,4 @@
+interface:
+  display_name: "Technical Writer"
+  short_description: "Technical Writer: specialized Codex guidance"
+  default_prompt: "Use $va-technical-writer to help with the following task."

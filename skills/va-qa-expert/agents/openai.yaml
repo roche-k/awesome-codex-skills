@@ -1,0 +1,4 @@
+interface:
+  display_name: "Qa Expert"
+  short_description: "Qa Expert: specialized Codex guidance"
+  default_prompt: "Use $va-qa-expert to help with the following task."

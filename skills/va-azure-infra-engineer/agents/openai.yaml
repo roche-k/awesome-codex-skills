@@ -1,0 +1,4 @@
+interface:
+  display_name: "Azure Infra Engineer"
+  short_description: "Azure Infra Engineer: specialized Codex guidance"
+  default_prompt: "Use $va-azure-infra-engineer to help with the following task."

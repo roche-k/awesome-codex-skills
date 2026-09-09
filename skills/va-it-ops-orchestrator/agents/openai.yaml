@@ -1,0 +1,4 @@
+interface:
+  display_name: "It Ops Orchestrator"
+  short_description: "It Ops Orchestrator: specialized Codex guidance"
+  default_prompt: "Use $va-it-ops-orchestrator to help with the following task."

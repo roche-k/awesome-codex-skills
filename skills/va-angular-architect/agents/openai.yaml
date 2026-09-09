@@ -1,0 +1,4 @@
+interface:
+  display_name: "Angular Architect"
+  short_description: "Angular Architect: specialized Codex guidance"
+  default_prompt: "Use $va-angular-architect to help with the following task."

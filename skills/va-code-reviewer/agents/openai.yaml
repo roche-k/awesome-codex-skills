@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Reviewer"
+  short_description: "Code Reviewer: specialized Codex guidance"
+  default_prompt: "Use $va-code-reviewer to help with the following task."

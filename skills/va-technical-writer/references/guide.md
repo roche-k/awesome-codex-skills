@@ -1,0 +1,234 @@
+# Domain guide
+
+Apply the relevant sections to the actual request. This adapted source is
+a menu of domain considerations, not a requirement to perform every item.
+Source version numbers and numeric targets are historical examples; use the
+project's real versions and agreed acceptance criteria. Check current primary
+documentation before relying on external APIs, standards, or provider behavior.
+Tool labels describe operations and do not grant unavailable tools or services.
+
+Technical writing checklist:
+- Readability score > 60 achieved
+- Technical accuracy 100% verified
+- Examples provided comprehensively
+- Visuals included appropriately
+- Version controlled properly
+- Peer reviewed thoroughly
+- SEO optimized effectively
+- User feedback positive consistently
+
+Documentation types:
+- Developer documentation
+- End-user guides
+- Administrator manuals
+- API references
+- SDK documentation
+- Integration guides
+- Best practices
+- Troubleshooting guides
+
+Content creation:
+- Information architecture
+- Content planning
+- Writing standards
+- Style consistency
+- Terminology management
+- Version control
+- Review processes
+- Publishing workflows
+
+API documentation:
+- Endpoint descriptions
+- Parameter documentation
+- Request/response examples
+- Authentication guides
+- Error references
+- Code samples
+- SDK guides
+- Integration tutorials
+
+User guides:
+- Getting started
+- Feature documentation
+- Task-based guides
+- Troubleshooting
+- FAQs
+- Video tutorials
+- Quick references
+- Best practices
+
+Writing techniques:
+- Information architecture
+- Progressive disclosure
+- Task-based writing
+- Minimalist approach
+- Visual communication
+- Structured authoring
+- Single sourcing
+- Localization ready
+
+Documentation tools:
+- Markdown mastery
+- Static site generators
+- API doc tools
+- Diagramming software
+- Screenshot tools
+- Version control
+- CI/CD integration
+- Analytics tracking
+
+Content standards:
+- Style guides
+- Writing principles
+- Formatting rules
+- Terminology consistency
+- Voice and tone
+- Accessibility standards
+- SEO guidelines
+- Legal compliance
+
+Visual communication:
+- Diagrams
+- Screenshots
+- Annotations
+- Flowcharts
+- Architecture diagrams
+- Infographics
+- Video content
+- Interactive elements
+
+Review processes:
+- Technical accuracy
+- Clarity checks
+- Completeness review
+- Consistency validation
+- Accessibility testing
+- User testing
+- Stakeholder approval
+- Continuous updates
+
+Documentation automation:
+- API doc generation
+- Code snippet extraction
+- Changelog automation
+- Link checking
+- Build integration
+- Version synchronization
+- Translation workflows
+- Metrics tracking
+
+## Development Workflow
+
+Execute technical writing through systematic phases:
+
+### 1. Planning Phase
+
+Understand documentation requirements and audience.
+
+Planning priorities:
+- Audience analysis
+- Content audit
+- Gap identification
+- Structure design
+- Tool selection
+- Timeline planning
+- Review process
+- Success metrics
+
+Content strategy:
+- Define objectives
+- Identify audiences
+- Map user journeys
+- Plan content types
+- Create outlines
+- Set standards
+- Establish workflows
+- Define metrics
+
+### 2. Implementation Phase
+
+Create clear, comprehensive documentation.
+
+Implementation approach:
+- Research thoroughly
+- Write clearly
+- Include examples
+- Add visuals
+- Review accuracy
+- Test usability
+- Gather feedback
+- Iterate continuously
+
+Writing patterns:
+- User-focused approach
+- Clear structure
+- Consistent style
+- Practical examples
+- Visual aids
+- Progressive complexity
+- Searchable content
+- Regular updates
+
+### 3. Documentation Excellence
+
+Deliver documentation that drives success.
+
+Excellence checklist:
+- Content comprehensive
+- Accuracy verified
+- Usability tested
+- Feedback incorporated
+- Search optimized
+- Maintenance planned
+- Impact measured
+- Users empowered
+
+Information architecture:
+- Logical organization
+- Clear navigation
+- Consistent structure
+- Intuitive categorization
+- Effective search
+- Cross-references
+- Related content
+- User pathways
+
+Writing excellence:
+- Clear language
+- Active voice
+- Concise sentences
+- Logical flow
+- Consistent terminology
+- Helpful examples
+- Visual breaks
+- Scannable format
+
+API documentation best practices:
+- Complete coverage
+- Clear descriptions
+- Working examples
+- Error handling
+- Authentication details
+- Rate limits
+- Versioning info
+- Quick start guide
+
+User guide strategies:
+- Task orientation
+- Step-by-step instructions
+- Visual aids
+- Common scenarios
+- Troubleshooting tips
+- Best practices
+- Advanced features
+- Quick references
+
+Continuous improvement:
+- User feedback collection
+- Analytics monitoring
+- Regular updates
+- Content refresh
+- Broken link checks
+- Accuracy verification
+- Performance optimization
+- New feature documentation

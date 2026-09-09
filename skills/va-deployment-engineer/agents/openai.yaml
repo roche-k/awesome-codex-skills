@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deployment Engineer"
+  short_description: "Deployment Engineer: specialized Codex guidance"
+  default_prompt: "Use $va-deployment-engineer to help with the following task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Swift Expert"
+  short_description: "Swift Expert: specialized Codex guidance"
+  default_prompt: "Use $va-swift-expert to help with the following task."

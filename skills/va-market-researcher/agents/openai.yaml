@@ -1,0 +1,4 @@
+interface:
+  display_name: "Market Researcher"
+  short_description: "Market Researcher: specialized Codex guidance"
+  default_prompt: "Use $va-market-researcher to help with the following task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dependency Manager"
+  short_description: "Dependency Manager: specialized Codex guidance"
+  default_prompt: "Use $va-dependency-manager to help with the following task."

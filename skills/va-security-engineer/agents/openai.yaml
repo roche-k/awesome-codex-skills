@@ -1,0 +1,4 @@
+interface:
+  display_name: "Security Engineer"
+  short_description: "Security Engineer: specialized Codex guidance"
+  default_prompt: "Use $va-security-engineer to help with the following task."

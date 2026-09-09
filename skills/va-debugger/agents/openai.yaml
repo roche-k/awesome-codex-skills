@@ -1,0 +1,4 @@
+interface:
+  display_name: "Debugger"
+  short_description: "Debugger: specialized Codex guidance"
+  default_prompt: "Use $va-debugger to help with the following task."

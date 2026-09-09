@@ -1,0 +1,236 @@
+# Domain guide
+
+Apply the relevant sections to the actual request. This adapted source is
+a menu of domain considerations, not a requirement to perform every item.
+Source version numbers and numeric targets are historical examples; use the
+project's real versions and agreed acceptance criteria. Check current primary
+documentation before relying on external APIs, standards, or provider behavior.
+Tool labels describe operations and do not grant unavailable tools or services.
+
+C# development checklist:
+- Nullable reference types enabled
+- Code analysis with .editorconfig
+- StyleCop and analyzer compliance
+- Test coverage exceeding 80%
+- API versioning implemented
+- Performance profiling completed
+- Security scanning passed
+- Documentation XML generated
+
+Modern C# patterns:
+- Record types for immutability
+- Pattern matching expressions
+- Nullable reference types discipline
+- Async/await best practices
+- LINQ optimization techniques
+- Expression trees usage
+- Source generators adoption
+- Global using directives
+
+ASP.NET Core mastery:
+- Minimal APIs for microservices
+- Middleware pipeline optimization
+- Dependency injection patterns
+- Configuration and options
+- Authentication/authorization
+- Custom model binding
+- Output caching strategies
+- Health checks implementation
+
+Blazor development:
+- Component architecture design
+- State management patterns
+- JavaScript interop
+- WebAssembly optimization
+- Server-side vs WASM
+- Component lifecycle
+- Form validation
+- Real-time with SignalR
+
+Entity Framework Core:
+- Code-first migrations
+- Query optimization
+- Complex relationships
+- Performance tuning
+- Bulk operations
+- Compiled queries
+- Change tracking optimization
+- Multi-tenancy implementation
+
+Performance optimization:
+- Span<T> and Memory<T> usage
+- ArrayPool for allocations
+- ValueTask patterns
+- SIMD operations
+- Source generators
+- AOT compilation readiness
+- Trimming compatibility
+- Benchmark.NET profiling
+
+Cloud-native patterns:
+- Container optimization
+- Kubernetes health probes
+- Distributed caching
+- Service bus integration
+- Azure SDK best practices
+- Dapr integration
+- Feature flags
+- Circuit breaker patterns
+
+Testing excellence:
+- xUnit with theories
+- Integration testing
+- TestServer usage
+- Mocking with Moq
+- Property-based testing
+- Performance testing
+- E2E with Playwright
+- Test data builders
+
+Async programming:
+- ConfigureAwait usage
+- Cancellation tokens
+- Async streams
+- Parallel.ForEachAsync
+- Channels for producers
+- Task composition
+- Exception handling
+- Deadlock prevention
+
+Cross-platform development:
+- MAUI for mobile/desktop
+- Platform-specific code
+- Native interop
+- Resource management
+- Platform detection
+- Conditional compilation
+- Publishing strategies
+- Self-contained deployment
+
+Architecture patterns:
+- Clean Architecture setup
+- Vertical slice architecture
+- MediatR for CQRS
+- Domain events
+- Specification pattern
+- Repository abstraction
+- Result pattern
+- Options pattern
+
+## Development Workflow
+
+Execute C# development through systematic phases:
+
+### 1. Solution Analysis
+
+Understand .NET architecture and project structure.
+
+Analysis priorities:
+- Solution organization
+- Project dependencies
+- NuGet package audit
+- Target frameworks
+- Code style configuration
+- Test project setup
+- Build configuration
+- Deployment targets
+
+Technical evaluation:
+- Review nullable annotations
+- Check async patterns
+- Analyze LINQ usage
+- Assess memory patterns
+- Review DI configuration
+- Check security setup
+- Evaluate API design
+- Document patterns used
+
+### 2. Implementation Phase
+
+Develop .NET solutions with modern C# features.
+
+Implementation focus:
+- Use primary constructors
+- Apply file-scoped namespaces
+- Leverage pattern matching
+- Implement with records
+- Use nullable reference types
+- Apply LINQ efficiently
+- Design immutable APIs
+- Create extension methods
+
+Development patterns:
+- Start with domain models
+- Use MediatR for handlers
+- Apply validation attributes
+- Implement repository pattern
+- Create service abstractions
+- Use options for config
+- Apply caching strategies
+- Setup structured logging
+
+Status updates:
+
+### 3. Quality Verification
+
+Ensure .NET best practices and performance.
+
+Quality checklist:
+- Code analysis passed
+- StyleCop clean
+- Tests passing
+- Coverage target met
+- API documented
+- Performance verified
+- Security scan clean
+- NuGet audit passed
+
+Minimal API patterns:
+- Endpoint filters
+- Route groups
+- OpenAPI integration
+- Model validation
+- Error handling
+- Rate limiting
+- Versioning setup
+- Authentication flow
+
+Blazor patterns:
+- Component composition
+- Cascading parameters
+- Event callbacks
+- Render fragments
+- Component parameters
+- State containers
+- JS isolation
+- CSS isolation
+
+gRPC implementation:
+- Service definition
+- Client factory setup
+- Interceptors
+- Streaming patterns
+- Error handling
+- Performance tuning
+- Code generation
+- Health checks
+
+Azure integration:
+- App Configuration
+- Key Vault secrets
+- Service Bus messaging
+- Cosmos DB usage
+- Blob storage
+- Azure Functions
+- Application Insights
+- Managed Identity
+
+Real-time features:
+- SignalR hubs
+- Connection management
+- Group broadcasting
+- Authentication
+- Scaling strategies
+- Backplane setup
+- Client libraries
+- Reconnection logic

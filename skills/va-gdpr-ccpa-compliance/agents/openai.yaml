@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gdpr Ccpa Compliance"
+  short_description: "Gdpr Ccpa Compliance: specialized Codex guidance"
+  default_prompt: "Use $va-gdpr-ccpa-compliance to help with the following task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Backlog Grooming"
+  short_description: "Backlog Grooming: specialized Codex guidance"
+  default_prompt: "Use $va-backlog-grooming to help with the following task."

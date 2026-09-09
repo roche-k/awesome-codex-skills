@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ml Engineer"
+  short_description: "Ml Engineer: specialized Codex guidance"
+  default_prompt: "Use $va-ml-engineer to help with the following task."

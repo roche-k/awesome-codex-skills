@@ -1,0 +1,4 @@
+interface:
+  display_name: "Accessibility Tester"
+  short_description: "Accessibility Tester: specialized Codex guidance"
+  default_prompt: "Use $va-accessibility-tester to help with the following task."

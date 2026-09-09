@@ -1,0 +1,4 @@
+interface:
+  display_name: "Api Documenter"
+  short_description: "Api Documenter: specialized Codex guidance"
+  default_prompt: "Use $va-api-documenter to help with the following task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ai Writing Auditor"
+  short_description: "Ai Writing Auditor: specialized Codex guidance"
+  default_prompt: "Use $va-ai-writing-auditor to help with the following task."

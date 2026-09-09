@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dotnet Framework 4.8 Expert"
+  short_description: "Dotnet Framework 4.8 Expert: specialized Codex guidance"
+  default_prompt: "Use $va-dotnet-framework-4-8-expert to help with the following task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Powershell Security Hardening"
+  short_description: "Powershell Security Hardening: specialized Codex guidance"
+  default_prompt: "Use $va-powershell-security-hardening to help with the following task."

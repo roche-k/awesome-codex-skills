@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nlp Engineer"
+  short_description: "Nlp Engineer: specialized Codex guidance"
+  default_prompt: "Use $va-nlp-engineer to help with the following task."

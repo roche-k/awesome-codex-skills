@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chaos Engineer"
+  short_description: "Chaos Engineer: specialized Codex guidance"
+  default_prompt: "Use $va-chaos-engineer to help with the following task."

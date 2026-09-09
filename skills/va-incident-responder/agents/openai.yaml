@@ -1,0 +1,4 @@
+interface:
+  display_name: "Incident Responder"
+  short_description: "Incident Responder: specialized Codex guidance"
+  default_prompt: "Use $va-incident-responder to help with the following task."

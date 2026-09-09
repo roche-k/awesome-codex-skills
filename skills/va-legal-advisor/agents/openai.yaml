@@ -1,0 +1,4 @@
+interface:
+  display_name: "Legal Advisor"
+  short_description: "Legal Advisor: specialized Codex guidance"
+  default_prompt: "Use $va-legal-advisor to help with the following task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Database Administrator"
+  short_description: "Database Administrator: specialized Codex guidance"
+  default_prompt: "Use $va-database-administrator to help with the following task."

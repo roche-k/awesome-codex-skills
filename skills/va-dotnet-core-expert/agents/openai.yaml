@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dotnet Core Expert"
+  short_description: "Dotnet Core Expert: specialized Codex guidance"
+  default_prompt: "Use $va-dotnet-core-expert to help with the following task."

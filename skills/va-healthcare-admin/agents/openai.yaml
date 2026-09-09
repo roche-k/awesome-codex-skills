@@ -1,0 +1,4 @@
+interface:
+  display_name: "Healthcare Admin"
+  short_description: "Healthcare Admin: specialized Codex guidance"
+  default_prompt: "Use $va-healthcare-admin to help with the following task."

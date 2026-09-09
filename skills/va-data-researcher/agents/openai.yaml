@@ -1,0 +1,4 @@
+interface:
+  display_name: "Data Researcher"
+  short_description: "Data Researcher: specialized Codex guidance"
+  default_prompt: "Use $va-data-researcher to help with the following task."

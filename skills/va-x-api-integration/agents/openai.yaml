@@ -1,0 +1,4 @@
+interface:
+  display_name: "X Api Integration"
+  short_description: "X Api Integration: specialized Codex guidance"
+  default_prompt: "Use $va-x-api-integration to help with the following task."

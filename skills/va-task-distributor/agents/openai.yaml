@@ -1,0 +1,4 @@
+interface:
+  display_name: "Task Distributor"
+  short_description: "Task Distributor: specialized Codex guidance"
+  default_prompt: "Use $va-task-distributor to help with the following task."
